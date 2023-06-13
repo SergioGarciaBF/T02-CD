@@ -1,0 +1,755 @@
+,id_jp,id_en,name,rarity,affinity,gender,affiliation,type,release_date_jp,release_date_en,hp_base,hp_max,atk_base,atk_max,avaliability
+0,0754,0738,Tachihara Michizou,UR,Dark,Male,Port Mafia,Support,2023-05-11 17:00,2023-05-11 08:00,1014,10617,218,2594,Awakening
+1,0753,0737,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Defensive,2023-05-01 14:00,2023-05-01 05:00,1081,10482,192,1456,Scouts
+2,0752,0736,Herman M.,SR,Azure,Male,Guild,Support,2023-04-20 17:00,2023-04-20 08:00,676,4511,138,1082,Events
+3,0751,0735,Mark T.,SSR,Crimson,Male,Guild,Special,2023-04-20 17:00,2023-04-20 08:00,959,8938,183,1526,Scouts
+4,0750,0734,Louisa A.,SSR,Light,Female,Guild,Balanced,2023-04-20 17:00,2023-04-20 08:00,925,8272,189,1690,Scouts
+5,0749,0733,Margaret M.,UR,Light,Female,Guild,Support,2023-04-13 14:00,2023-04-13 05:00,1024,10726,216,2592,Awakening
+6,0748,0732,Akutagawa Ryuunosuke,SSR,Emerald,Male,Port Mafia,Offensive,2023-04-06 17:00,2023-04-06 08:00,959,7832,217,2350,Scouts
+7,0747,0731,Sakaguchi Ango,SR,Light,Male,Port Mafia,Defensive,2023-04-01 00:00,2023-04-01 00:00,727,5447,128,777,Events
+8,0746,0730,Oda Sakunosuke,SR,Azure,Male,Port Mafia,Balanced,2023-04-01 00:00,2023-04-01 00:00,673,4685,139,965,Events
+9,0745,0729,Dazai Osamu,SR,Emerald,Male,Armed Detective Agency,Offensive,2023-04-01 00:00,2023-04-01 00:00,649,4130,144,1206,Events
+10,0744,0728,Higuchi Ichiyou,SR,Light,Female,Port Mafia,Special,2023-03-23 17:00,2023-03-23 08:00,690,4997,136,903,Events
+11,0743,0727,Hirotsu Ryuurou,SSR,Dark,Male,Port Mafia,Support,2023-03-23 17:00,2023-03-23 08:00,912,7785,192,1930,Scouts
+12,0742,0726,Tachihara Michizou,SSR,Crimson,Male,Port Mafia,Offensive,2023-03-23 17:00,2023-03-23 08:00,899,7298,195,2091,Scouts
+13,0741,0725,Ozaki Kouyou,UR,Dark,Female,Port Mafia,Special,2023-03-09 17:00,2023-03-09 08:00,1025,11717,195,1977,Awakening
+14,0740,0724,Dazai Osamu,SSR,Light,Male,Armed Detective Agency,Balanced,2023-03-01 17:00,2023-03-01 08:00,1010,8989,206,1865,Scouts
+15,0739,0723,Gin,SR,Crimson,Female,Port Mafia,Balanced,2023-02-22 17:00,2023-02-22 08:00,683,4754,137,963,Events
+16,0738,0722,Yumeno Kyuusaku,SSR,Azure,Unknown,Port Mafia,Defensive,2023-02-22 17:00,2023-02-22 08:00,992,9682,176,1361,Scouts
+17,0737,0721,Nakahara Chuuya,SSR,Dark,Male,Port Mafia,Support,2023-02-22 17:00,2023-02-22 08:00,912,7785,192,1930,Scouts
+18,0736,0720,Mark T.,SSR,Azure,Male,Guild,Special,2023-02-09 14:00,2023-02-09 08:00,925,8667,173,1437,Scouts
+19,0735,0719,Kunikida Doppo,SSR,Light,Male,Armed Detective Agency,Offensive,2023-02-01 14:00,2023-02-01 05:00,969,7921,215,2269,Scouts
+20,0734,0718,John S.,SSR,Emerald,Male,Guild,Special,2023-01-01 00:00,2023-01-01 00:00,969,9027,181,1524,Scouts
+21,0733,0717,Izumi Kyouka,SSR,Crimson,Female,Armed Detective Agency,Support,2023-01-01 00:00,2023-01-01 00:00,902,7696,194,1932,Scouts
+22,0732,0716,Tanizaki Junichirou,SSR,Dark,Male,Armed Detective Agency,Defensive,2023-01-01 00:00,2023-01-01 00:00,972,9425,180,1365,Scouts
+23,0731,0715,Hirotsu Ryuurou,SR,Crimson,Male,Port Mafia,Defensive,2022-12-14 00:00,2022-12-14 00:00,727,5447,128,777,Events
+24,0730,0714,Ozaki Kouyou,SR,Dark,Female,Port Mafia,Offensive,2022-12-14 00:00,2022-12-14 00:00,639,4061,146,1208,Events
+25,0729,0713,Tachihara Michizou,SSR,Emerald,Male,Port Mafia,Support,2022-12-14 00:00,2022-12-14 00:00,902,7696,194,1932,Scouts
+26,0728,0712,Gin,SSR,Light,Female,Port Mafia,Balanced,2022-12-14 00:00,2022-12-14 00:00,935,8361,187,1688,Scouts
+27,0727,0711,Yumeno Kyuusaku,SSR,Crimson,Unknown,Port Mafia,Balanced,2022-12-14 00:00,2022-12-14 00:00,925,8272,189,1690,Scouts
+28,0726,0710,Kajii Motojirou,SSR,Light,Male,Port Mafia,Offensive,2022-12-14 00:00,2022-12-14 00:00,899,7298,195,2091,Scouts
+29,0725,0709,Akutagawa Ryuunosuke,SSR,Azure,Male,Port Mafia,Special,2022-12-14 00:00,2022-12-14 00:00,959,8938,183,1526,Scouts
+30,0724,0708,Mori Ougai,SSR,Emerald,Male,Port Mafia,Defensive,2022-12-14 00:00,2022-12-14 00:00,982,9593,178,1363,Scouts
+31,0723,0707,Dazai Osamu,SSR,Azure,Male,Port Mafia,Support,2022-12-01 14:00,2022-12-01 05:00,1010,8594,203,2020,Scouts
+32,0722,0706,Haruno Kirako,SR,Crimson,Female,Armed Detective Agency,Support,2022-11-24 14:00,2022-11-24 05:00,666,4442,140,1084,Events
+33,0721,0705,Fukuzawa Yukichi,SSR,Crimson,Male,Armed Detective Agency,Special,2022-11-24 14:00,2022-11-24 05:00,969,9027,181,1524,Scouts
+34,0720,0704,Edogawa Rampo,SSR,Dark,Male,Armed Detective Agency,Special,2022-11-24 14:00,2022-11-24 05:00,949,8849,185,1528,Scouts
+35,0719,0703,John S.,SSR,Dark,Male,Guild,Defensive,2022-11-01 14:00,2022-11-01 05:00,1081,10482,192,1456,Scouts
+36,0718,0702,Nathaniel H.,SR,Light,Male,Guild,Defensive,2022-10-06 14:00,2022-10-06 08:00,727,5447,128,777,Events
+37,0717,0701,Margaret M.,SSR,Emerald,Female,Guild,Support,2022-10-06 14:00,2022-10-06 08:00,922,7874,190,1849,Scouts
+38,0716,0700,Lucy M.,SSR,Dark,Female,Guild,Offensive,2022-10-06 14:00,2022-10-06 08:00,889,7288,197,2093,Scouts
+39,0715,0699,Francis F.,SSR,Emerald,Male,Guild,Balanced,2022-10-06 14:00,2022-10-06 08:00,935,8361,187,1688,Scouts
+40,0714,0698,Nakahara Chuuya,SSR,Light,Male,Port Mafia,Balanced,2022-10-01 14:00,2022-10-01 05:00,1010,8989,206,1865,Scouts
+41,0713,0697,Francis F.,SSR,Light,Male,Guild,Offensive,2022-09-19 14:00,2022-09-19 05:00,950,7744,235,2526,Scouts
+42,0712,0696,Kajii Motojirou,SR,Dark,Male,Port Mafia,Defensive,2022-09-08 14:00,2022-09-08 08:00,707,5309,132,781,Events
+43,0711,0695,Ozaki Kouyou,SSR,Azure,Female,Port Mafia,Special,2022-09-08 14:00,2022-09-08 08:00,949,8849,185,1528,Scouts
+44,0710,0694,Mori Ougai,SSR,Crimson,Male,Port Mafia,Offensive,2022-09-08 14:00,2022-09-08 08:00,899,7298,195,2091,Scouts
+45,0709,0693,Sakaguchi Ango,SSR,Crimson,Male,Supernatural Ability Special Investigation Division,Defensive,2022-09-01 14:00,2022-09-01 08:00,1071,10393,194,1458,Scouts
+46,0708,0692,Miyazawa Kenji,SR,Azure,Male,Armed Detective Agency,Balanced,2022-08-18 14:00,2022-08-18 08:00,683,4754,137,963,Events
+47,0707,0691,Fukuzawa Yukichi,SSR,Light,Male,Armed Detective Agency,Offensive,2022-08-18 14:00,2022-08-18 08:00,879,7199,199,2095,Scouts
+48,0706,0690,Dazai Osamu,SSR,Crimson,Male,Armed Detective Agency,Support,2022-08-18 14:00,2022-08-18 08:00,922,7874,190,1849,Scouts
+49,0705,0689,Oda Sakunosuke,SSR,Dark,Male,Port Mafia,Offensive,2022-08-01 14:00,2022-08-01 05:00,959,7832,217,2350,Scouts
+50,0704,0688,Kunikida Doppo,SR,Light,Male,Armed Detective Agency,Balanced,2022-07-07 14:00,2022-07-07 08:00,693,4823,135,961,Events
+51,0703,0687,Miyazawa Kenji,SSR,Azure,Male,Armed Detective Agency,Support,2022-07-07 14:00,2022-07-07 08:00,902,7696,194,1932,Scouts
+52,0702,0686,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Special,2022-07-07 14:00,2022-07-07 08:00,959,8938,183,1526,Scouts
+53,0701,0685,John S.,SR,Azure,Male,Guild,Support,2022-06-10 14:00,2022-06-10 05:00,676,4511,138,1082,Events
+54,0700,0684,Herman M.,SSR,Emerald,Male,Guild,Special,2022-06-10 14:00,2022-06-10 05:00,949,8849,185,1528,Scouts
+55,0699,0683,Poe,SSR,Azure,Male,Guild,Support,2022-06-10 14:00,2022-06-10 05:00,922,7874,190,1849,Scouts
+56,0698,0682,Lucy M.,SR,Light,Female,Guild,Balanced,2022-05-19 14:00,2022-05-19 08:00,673,4685,139,965,Events
+57,0697,0681,Nathaniel H.,SSR,Dark,Male,Guild,Special,2022-05-19 14:00,2022-05-19 08:00,949,8849,185,1528,Scouts
+58,0696,0680,Francis F.,SSR,Crimson,Male,Guild,Offensive,2022-05-19 14:00,2022-05-19 08:00,899,7298,195,2091,Scouts
+59,0695,0679,Louisa A.,SSR,Dark,Female,Guild,Special,2022-05-01 14:00,2022-05-06 08:00,1046,9736,199,1621,Scouts
+60,0694,0678,Ozaki Kouyou,SR,Crimson,Female,Port Mafia,Defensive,2022-04-14 14:00,2022-04-14 08:00,727,5447,128,777,Events
+61,0693,0677,Higuchi Ichiyou,SSR,Emerald,Female,Port Mafia,Support,2022-04-14 14:00,2022-04-14 08:00,912,7785,192,1930,Scouts
+62,0692,0676,Akutagawa Ryuunosuke,SSR,Light,Male,Port Mafia,Offensive,2022-04-14 14:00,2022-04-14 08:00,899,7298,195,2091,Scouts
+63,0691,0674,Nakahara Chuuya,SR,Emerald,Male,Port Mafia,Support,2022-04-01 00:00,2022-04-01 00:00,656,4373,142,1086,Events
+64,0690,0673,Lucy M.,SR,Dark,Female,Guild,Balanced,2022-04-01 00:00,2022-04-01 00:00,693,4823,135,961,Events
+65,0689,0675,Dazai Osamu,SSR,Azure,Male,Armed Detective Agency,Offensive,2022-04-01 14:00,2022-04-01 05:00,959,7832,217,2350,Scouts
+66,0688,0672,Kunikida Doppo,SR,Dark,Male,Armed Detective Agency,Offensive,2022-03-24 14:00,2022-03-24 08:00,649,4130,144,1206,Events
+67,0687,0671,Tanizaki Junichirou,SSR,Azure,Male,Armed Detective Agency,Special,2022-03-24 14:00,2022-03-24 08:00,959,8938,183,1526,Scouts
+68,0686,0670,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Defensive,2022-03-24 14:00,2022-03-24 08:00,972,9425,180,1365,Scouts
+69,0685,0669,Higuchi Ichiyou,SSR,Azure,Female,Port Mafia,Offensive,2022-03-01 14:00,2022-03-01 05:00,969,7921,215,2269,Scouts
+70,0684,0668,Izumi Kyouka,SR,Crimson,Female,Armed Detective Agency,Support,2022-02-14 14:00,2022-02-14 05:00,666,4442,140,1084,Events
+71,0683,0667,Margaret M.,SSR,Azure,Female,Guild,Defensive,2022-02-14 14:00,2022-02-14 05:00,972,9425,180,1365,Scouts
+72,0682,0666,Lucy M.,SSR,Emerald,Female,Guild,Special,2022-02-14 14:00,2022-02-14 05:00,969,9027,181,1524,Scouts
+73,0681,0665,Akutagawa Ryuunosuke,SR,Dark,Male,Port Mafia,Support,2022-02-10 14:00,2022-02-10 08:00,656,4373,142,1086,Events
+74,0680,0664,Higuchi Ichiyou,SR,Emerald,Female,Port Mafia,Balanced,2022-02-10 14:00,2022-02-10 08:00,693,4823,135,961,Events
+75,0679,0663,Nakahara Chuuya,SSR,Crimson,Male,Port Mafia,Special,2022-02-10 14:00,2022-02-10 08:00,969,9027,181,1524,Scouts
+76,0678,0662,Ozaki Kouyou,SSR,Emerald,Female,Port Mafia,Balanced,2022-02-10 14:00,2022-02-10 08:00,935,8361,187,1688,Scouts
+77,0677,0661,Mori Ougai,SSR,Azure,Male,Port Mafia,Special,2022-02-10 14:00,2022-02-10 08:00,949,8849,185,1528,Scouts
+78,0676,0660,Kajii Motojirou,SSR,Emerald,Male,Port Mafia,Balanced,2022-02-01 14:00,2022-02-01 05:00,1030,9167,202,1861,Scouts
+79,0675,0659,Yosano Akiko,SR,Emerald,Female,Armed Detective Agency,Defensive,2022-01-20 14:00,2022-01-20 08:00,727,5447,128,777,Events
+80,0674,0658,Fukuzawa Yukichi,SSR,Azure,Male,Armed Detective Agency,Balanced,2022-01-20 14:00,2022-01-20 08:00,935,8361,187,1688,Scouts
+81,0673,0657,Edogawa Rampo,SSR,Light,Male,Armed Detective Agency,Defensive,2022-01-20 14:00,2022-01-20 08:00,972,9425,180,1365,Scouts
+82,0672,0656,Tanizaki Junichirou,SR,Light,Male,Armed Detective Agency,Special,2022-01-01 00:00,2022-01-01 00:00,710,5135,132,840,Events
+83,0671,0655,Miyazawa Kenji,SR,Emerald,Male,Armed Detective Agency,Offensive,2022-01-01 00:00,2022-01-01 00:00,639,4061,146,1208,Events
+84,0670,0654,Kunikida Doppo,SSR,Emerald,Male,Armed Detective Agency,Special,2022-01-01 00:00,2022-01-01 00:00,949,8849,185,1528,Scouts
+85,0669,0653,Yosano Akiko,SSR,Crimson,Female,Armed Detective Agency,Defensive,2022-01-01 00:00,2022-01-01 00:00,992,9682,176,1361,Scouts
+86,0668,0652,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Offensive,2022-01-01 00:00,2022-01-01 00:00,889,7288,197,2093,Scouts
+87,0667,0651,Dazai Osamu,SSR,Light,Male,Armed Detective Agency,Support,2022-01-01 00:00,2022-01-01 00:00,902,7696,194,1932,Scouts
+88,0666,0650,Lucy M.,SSR,Azure,Female,Guild,Balanced,2021-12-16 14:00,2021-12-22 08:00,925,8272,189,1690,Scouts
+89,0665,0649,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Special,2021-12-16 14:00,2021-12-22 08:00,969,9027,181,1524,Scouts
+90,0664,0647,Dazai Osamu,SR,Emerald,Male,Armed Detective Agency,Defensive,2021-12-09 14:00,2021-12-09 08:00,707,5309,132,781,Events
+91,0663,0646,Fyodor D.,SSR,Crimson,Male,Rats in the House of the Dead,Balanced,2021-12-09 14:00,2021-12-09 08:00,935,8361,187,1688,Scouts
+92,0662,0645,Shibusawa Tatsuhiko,SSR,Dark,Male,Independent,Support,2021-12-09 14:00,2021-12-09 08:00,902,7696,194,1932,Scouts
+93,0661,0644,Yosano Akiko,SSR,Light,Female,Armed Detective Agency,Support,2021-12-01 14:00,2021-12-01 05:00,1005,8589,208,2025,Scouts
+94,0660,0640,Poe,SR,Azure,Male,Guild,Balanced,2021-11-18 14:00,2021-11-18 08:00,683,4754,137,963,Events
+95,0659,0639,Lovecraft,SSR,Azure,Male,Guild,Support,2021-11-18 14:00,2021-11-18 08:00,912,7785,192,1930,Scouts
+96,0658,0638,John S.,SSR,Light,Male,Guild,Offensive,2021-11-18 14:00,2021-11-18 08:00,879,7199,199,2095,Scouts
+97,0657,0637,Mark T.,SSR,Emerald,Male,Guild,Special,2021-11-18 14:00,2021-11-18 08:00,969,9027,181,1524,Scouts
+98,0656,0636,Lucy M.,SSR,Crimson,Female,Guild,Offensive,2021-11-18 14:00,2021-11-18 08:00,889,7288,197,2093,Scouts
+99,0655,0635,Herman M.,SR,Light,Male,Guild,Special,2021-11-10 14:00,2021-11-10 08:00,690,4997,136,903,Events
+100,0654,0634,Margaret M.,SSR,Crimson,Female,Guild,Balanced,2021-11-10 14:00,2021-11-10 08:00,925,8272,189,1690,Scouts
+101,0653,0633,Nathaniel H.,SSR,Emerald,Male,Guild,Defensive,2021-11-10 14:00,2021-11-10 08:00,992,9682,176,1361,Scouts
+102,0652,0632,Louisa A.,SSR,Dark,Female,Guild,Support,2021-11-10 14:00,2021-11-10 08:00,912,7785,192,1930,Scouts
+103,0651,0631,Francis F.,SSR,Azure,Male,Guild,Special,2021-11-10 14:00,2021-11-10 08:00,949,8849,185,1528,Scouts
+104,0650,0643,Nakajima Atsushi,SR,Dark,Male,Armed Detective Agency,Offensive,2021-11-04 14:00,2021-11-26 08:00,649,4130,144,1206,Events
+105,0649,0642,Tanizaki Junichirou,SSR,Crimson,Male,Armed Detective Agency,Balanced,2021-11-04 14:00,2021-11-26 08:00,935,8361,187,1688,Scouts
+106,0648,0641,Izumi Kyouka,SSR,Emerald,Female,Armed Detective Agency,Defensive,2021-11-04 14:00,2021-11-26 08:00,972,9425,180,1365,Scouts
+107,0647,0630,Mori Ougai,SSR,Dark,Male,Port Mafia,Defensive,2021-11-01 14:00,2021-11-01 05:00,1061,10304,196,1460,Scouts
+108,0646,?,Dazai Osamu,SSR,Crimson,Male,Port Mafia,Offensive,2021-10-28 14:00,?,959,7832,217,2350,Scouts
+109,0645,0625,Yumeno Kyuusaku,SR,Dark,Unknown,Port Mafia,Defensive,2021-10-22 14:00,2021-10-22 08:00,717,5378,130,779,Events
+110,0644,0624,Gin,SR,Azure,Female,Port Mafia,Support,2021-10-22 14:00,2021-10-22 08:00,676,4511,138,1082,Events
+111,0643,0623,Ozaki Kouyou,SSR,Dark,Female,Port Mafia,Offensive,2021-10-22 14:00,2021-10-22 08:00,889,7288,197,2093,Scouts
+112,0642,0622,Kajii Motojirou,SSR,Emerald,Male,Port Mafia,Offensive,2021-10-22 14:00,2021-10-22 08:00,879,7199,199,2095,Scouts
+113,0641,0621,Akutagawa Ryuunosuke,SSR,Crimson,Male,Port Mafia,Balanced,2021-10-22 14:00,2021-10-22 08:00,935,8361,187,1688,Scouts
+114,0640,0620,Oda Sakunosuke,SSR,Light,Male,Port Mafia,Defensive,2021-10-18 14:00,2021-10-18 05:00,1090,10570,196,1460,Scouts
+115,0639,0615,Tanizaki Junichirou,SR,Crimson,Male,Armed Detective Agency,Offensive,2021-09-16 14:00,2021-09-16 08:00,639,4061,146,1208,Events
+116,0638,0614,Nakajima Atsushi,SR,Light,Male,Armed Detective Agency,Balanced,2021-09-16 14:00,2021-09-16 08:00,693,4823,135,961,Events
+117,0637,0613,Miyazawa Kenji,SSR,Dark,Male,Armed Detective Agency,Defensive,2021-09-16 14:00,2021-09-16 08:00,992,9682,176,1361,Scouts
+118,0636,0612,Edogawa Rampo,SSR,Azure,Male,Armed Detective Agency,Balanced,2021-09-16 14:00,2021-09-16 08:00,925,8272,189,1690,Scouts
+119,0635,0611,Kunikida Doppo,SSR,Azure,Male,Armed Detective Agency,Offensive,2021-09-16 14:00,2021-09-16 08:00,889,7288,197,2093,Scouts
+120,0634,0610,Dazai Osamu,SSR,Dark,Male,Armed Detective Agency,Balanced,2021-09-16 14:00,2021-09-16 08:00,925,8272,189,1690,Scouts
+121,0633,0618,Lucy M.,SR,Dark,Female,Guild,Defensive,2021-09-09 14:00,2021-09-30 08:00,717,5378,130,779,Events
+122,0632,0617,Lovecraft,SSR,Light,Male,Guild,Offensive,2021-09-09 14:00,2021-09-30 08:00,889,7288,197,2093,Scouts
+123,0631,0616,Mark T.,SSR,Crimson,Male,Guild,Support,2021-09-09 14:00,2021-09-30 08:00,902,7696,194,1932,Scouts
+124,0630,0607,Tanizaki Naomi,SSR,Emerald,Female,Armed Detective Agency,Offensive,2021-09-02 14:00,2021-09-09 08:00,899,7298,195,2091,Scouts
+125,0629,0606,Yosano Akiko,SSR,Light,Female,Armed Detective Agency,Special,2021-09-02 14:00,2021-09-09 08:00,959,8938,183,1526,Scouts
+126,0628,0603,Francis F.,SSR,Emerald,Male,Guild,Offensive,2021-09-01 14:00,2021-09-01 05:00,969,7921,215,2269,Scouts
+127,0627,0629,Mori Ougai,SSR,Light,Male,Port Mafia,Support,2021-08-26 14:00,2021-10-28 08:00,788,6713,166,1667,Events
+128,0626,0628,Kajii Motojirou,SSR,Crimson,Male,Port Mafia,Support,2021-08-26 14:00,2021-10-28 08:00,922,7874,190,1849,Scouts
+129,0625,0627,Akutagawa Ryuunosuke,SSR,Emerald,Male,Port Mafia,Defensive,2021-08-26 14:00,2021-10-28 08:00,982,9593,178,1363,Scouts
+130,0624,0626,Higuchi Ichiyou,SSR,Light,Female,Port Mafia,Balanced,2021-08-26 14:00,2021-10-28 08:00,925,8272,189,1690,Scouts
+131,0623,0598,Nakahara Chuuya,SSR,Azure,Male,Port Mafia,Balanced,2021-08-12 14:00,2021-08-13 05:00,1035,9251,207,1866,Scouts
+132,0622,0597,Poe,SR,Emerald,Male,Guild,Special,2021-08-12 14:00,2021-08-12 08:00,710,5135,132,840,Events
+133,0621,0596,Nathaniel H.,SSR,Light,Male,Guild,Special,2021-08-12 14:00,2021-08-12 08:00,959,8938,183,1526,Scouts
+134,0620,0595,John S.,SSR,Crimson,Male,Guild,Defensive,2021-08-12 14:00,2021-08-12 08:00,972,9425,180,1365,Scouts
+135,0619,0592,Yosano Akiko,SR,Crimson,Female,Armed Detective Agency,Balanced,2021-08-05 14:00,2021-08-05 08:00,683,4754,137,963,Events
+136,0618,0591,Nakajima Atsushi,SR,Azure,Male,Armed Detective Agency,Offensive,2021-08-05 14:00,2021-08-05 08:00,639,4061,146,1208,Events
+137,0617,0590,Izumi Kyouka,SSR,Crimson,Female,Armed Detective Agency,Balanced,2021-08-05 14:00,2021-08-05 08:00,945,8450,185,1686,Scouts
+138,0616,0589,Tanizaki Junichirou,SSR,Light,Male,Armed Detective Agency,Defensive,2021-08-05 14:00,2021-08-05 08:00,982,9593,178,1363,Scouts
+139,0615,0588,Kunikida Doppo,SSR,Emerald,Male,Armed Detective Agency,Support,2021-08-05 14:00,2021-08-05 08:00,902,7696,194,1932,Scouts
+140,0614,0587,Fukuzawa Yukichi,SSR,Dark,Male,Armed Detective Agency,Special,2021-08-01 14:00,2021-08-01 05:00,1036,9647,201,1702,Scouts
+141,0613,0586,Yosano Akiko,SSR,Emerald,Female,Armed Detective Agency,Defensive,2021-07-21 14:00,2021-07-21 08:00,1071,10393,194,1458,Scouts
+142,0612,0585,Mark T.,SR,Emerald,Male,Guild,Support,2021-07-14 14:00,2021-07-14 08:00,676,4511,138,1082,Events
+143,0611,0584,Poe,SSR,Emerald,Male,Guild,Offensive,2021-07-14 14:00,2021-07-14 08:00,889,7288,197,2093,Scouts
+144,0610,0583,Francis F.,SSR,Dark,Male,Guild,Balanced,2021-07-14 14:00,2021-07-14 08:00,925,8272,189,1690,Scouts
+145,0609,0582,Tachihara Michizou,SR,Light,Male,Port Mafia,Special,2021-07-01 14:00,2021-07-01 08:00,700,5066,134,901,Events
+146,0608,0581,Akutagawa Ryuunosuke,SR,Crimson,Male,Port Mafia,Offensive,2021-07-01 14:00,2021-07-01 08:00,639,4061,146,1208,Events
+147,0607,0580,Ozaki Kouyou,SSR,Crimson,Female,Port Mafia,Support,2021-07-01 14:00,2021-07-01 08:00,922,7874,190,1849,Scouts
+148,0606,0579,Kajii Motojirou,SSR,Dark,Male,Port Mafia,Special,2021-07-01 14:00,2021-07-01 08:00,959,8938,183,1526,Scouts
+149,0605,0578,Mori Ougai,SSR,Emerald,Male,Port Mafia,Offensive,2021-07-01 14:00,2021-07-01 08:00,879,7199,199,2095,Scouts
+150,0604,0577,Tanizaki Junichirou,SSR,Crimson,Male,Armed Detective Agency,Special,2021-07-01 14:00,2021-07-01 08:00,1056,9825,197,1619,Scouts
+151,0603,?,Akutagawa Ryuunosuke,SSR,Crimson,Male,Port Mafia,Special,2021-06-16 14:00,?,1046,9736,199,1621,Scouts
+152,0602,?,Nakajima Atsushi,SSR,Azure,Male,Armed Detective Agency,Defensive,2021-06-16 14:00,?,1061,10304,196,1460,Scouts
+153,0601,0576,Yosano Akiko,SR,Light,Female,Armed Detective Agency,Special,2021-06-10 14:00,2021-06-14 05:00,710,5135,132,840,Events
+154,0600,0575,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Offensive,2021-06-10 14:00,2021-06-14 05:00,758,6209,172,1831,Events
+155,0599,0574,Miyazawa Kenji,SSR,Emerald,Male,Armed Detective Agency,Balanced,2021-06-10 14:00,2021-06-14 05:00,925,8272,189,1690,Scouts
+156,0598,0573,Izumi Kyouka,SSR,Dark,Female,Armed Detective Agency,Support,2021-06-10 14:00,2021-06-14 05:00,912,7785,192,1930,Scouts
+157,0597,0572,Dazai Osamu,SSR,Azure,Male,Armed Detective Agency,Defensive,2021-06-10 14:00,2021-06-14 05:00,992,9682,176,1361,Scouts
+158,0596,0571,Akutagawa Ryuunosuke,SSR,Dark,Male,Port Mafia,Support,2021-06-08 14:00,2021-06-10 08:00,1030,8772,201,2018,Scouts
+159,0595,0570,Edogawa Rampo,SR,Crimson,Male,Armed Detective Agency,Offensive,2021-06-03 14:00,2021-06-03 08:00,639,4061,146,1208,Events
+160,0594,0569,Yumeno Kyuusaku,SSR,Emerald,Unknown,Port Mafia,Support,2021-06-03 14:00,2021-06-03 08:00,912,7785,192,1930,Scouts
+161,0593,0568,Higuchi Ichiyou,SSR,Azure,Female,Port Mafia,Defensive,2021-06-03 14:00,2021-06-03 08:00,972,9425,180,1365,Scouts
+162,0592,0567,Kunikida Doppo,SSR,Azure,Male,Armed Detective Agency,Offensive,2021-06-01 14:00,2021-06-01 05:00,969,7921,215,2269,Scouts
+163,0591,0566,Akutagawa Ryuunosuke,SR,Azure,Male,Port Mafia,Balanced,2021-05-20 14:00,2021-05-20 08:00,673,4685,139,965,Events
+164,0590,0565,Gin,SR,Crimson,Female,Port Mafia,Support,2021-05-20 14:00,2021-05-20 08:00,676,4511,138,1082,Scouts
+165,0589,0564,Mori Ougai,SSR,Crimson,Male,Port Mafia,Balanced,2021-05-20 14:00,2021-05-20 08:00,935,8361,187,1688,Scouts
+166,0588,0563,Nakahara Chuuya,SSR,Azure,Male,Port Mafia,Defensive,2021-05-20 14:00,2021-05-20 08:00,972,9425,180,1365,Scouts
+167,0587,0609,Akutagawa Ryuunosuke,UR,Light,Male,Port Mafia,Offensive,2021-05-12 14:00,2021-09-12 05:00,969,9681,221,2894,Awakening
+168,0586,0608,Akutagawa Ryuunosuke,SSR,Light,Male,Port Mafia,Offensive,2021-05-12 14:00,2021-09-12 05:00,959,7832,218,2351,Scouts
+169,0585,0562,Lovecraft,SSR,Dark,Male,Guild,Special,2021-05-01 14:00,2021-05-01 05:00,1036,9647,201,1702,Scouts
+170,0584,?,Poe,SR,Dark,Male,Guild,Offensive,2021-04-28 14:00,?,649,4130,144,1206,Events
+171,0583,?,Nathaniel H.,SR,Light,Male,Guild,Special,2021-04-28 14:00,?,690,4997,136,903,Scouts
+172,0582,?,Mark T.,SSR,Dark,Male,Guild,Offensive,2021-04-28 14:00,?,899,7298,195,2091,Scouts
+173,0581,?,Lucy M.,SSR,Light,Female,Guild,Defensive,2021-04-28 14:00,?,982,9593,178,1363,Scouts
+174,0580,?,Francis F.,SSR,Crimson,Male,Guild,Support,2021-04-28 14:00,?,902,7696,194,1932,Scouts
+175,0579,?,John S.,SSR,Emerald,Male,Guild,Balanced,2021-04-28 14:00,?,818,7296,160,1424,Events
+176,0578,0558,Lucy M.,SSR,Azure,Female,Guild,Balanced,2021-04-23 14:00,2021-04-23 05:00,1030,9167,202,1861,Scouts
+177,0577,0561,Yosano Akiko,SR,Dark,Female,Armed Detective Agency,Support,2021-04-15 14:00,2021-04-28 08:00,656,4373,142,1086,Events
+178,0576,0560,Fukuzawa Yukichi,SSR,Emerald,Male,Armed Detective Agency,Defensive,2021-04-15 14:00,2021-04-28 08:00,982,9593,178,1363,Scouts
+179,0575,0559,Edogawa Rampo,SSR,Crimson,Male,Armed Detective Agency,Special,2021-04-15 14:00,2021-04-28 08:00,969,9027,181,1524,Scouts
+180,0574,0557,Tanizaki Junichirou,SR,Azure,Male,Armed Detective Agency,Balanced,2021-04-08 14:00,2021-04-08 08:00,683,4754,137,963,Events
+181,0573,0556,Izumi Kyouka,SR,Emerald,Female,Armed Detective Agency,Defensive,2021-04-08 14:00,2021-04-08 08:00,727,5447,128,777,Events
+182,0572,0555,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Support,2021-04-08 14:00,2021-04-08 08:00,902,7696,194,1932,Scouts
+183,0571,0554,Kunikida Doppo,SSR,Crimson,Male,Armed Detective Agency,Balanced,2021-04-08 14:00,2021-04-08 08:00,945,8450,185,1686,Scouts
+184,0570,0553,Miyazawa Kenji,SSR,Dark,Male,Armed Detective Agency,Defensive,2021-04-08 14:00,2021-04-08 08:00,982,9593,178,1363,Scouts
+185,0569,0552,Gin,SSR,Emerald,Female,Port Mafia,Offensive,2021-04-01 14:00,2021-04-01 05:00,969,7921,215,2269,Scouts
+186,0568,0551,Edogawa Rampo,SSR,Light,Male,Armed Detective Agency,Balanced,2021-04-01 00:00,2021-04-01 00:00,798,7118,164,1507,Awakening
+187,0567,0550,Edogawa Rampo,SR,Light,Male,Armed Detective Agency,Balanced,2021-04-01 00:00,2021-04-01 00:00,608,4207,126,893,Awakening
+188,0566,0549,Edogawa Rampo,R,Light,Male,Armed Detective Agency,Balanced,2021-04-01 00:00,2021-04-01 00:00,465,2298,97,487,Events
+189,0565,0541,Akutagawa Ryuunosuke,SR,Emerald,Male,Port Mafia,Support,2021-03-11 14:00,2021-03-11 08:00,666,4442,140,1084,Events
+190,0564,0540,Mori Ougai,SR,Dark,Male,Port Mafia,Balanced,2021-03-11 14:00,2021-03-11 08:00,693,4823,135,961,Scouts
+191,0563,0539,Tachihara Michizou,SSR,Crimson,Male,Port Mafia,Defensive,2021-03-11 14:00,2021-03-11 08:00,972,9425,180,1365,Scouts
+192,0562,0538,Nakahara Chuuya,SSR,Light,Male,Port Mafia,Support,2021-03-11 14:00,2021-03-11 08:00,922,7874,190,1849,Scouts
+193,0561,0537,Nakajima Atsushi,SR,Crimson,Male,Armed Detective Agency,Defensive,2021-03-04 14:00,2021-03-04 08:00,717,5378,130,779,Events
+194,0560,0536,Kunikida Doppo,SR,Azure,Male,Armed Detective Agency,Support,2021-03-04 14:00,2021-03-04 08:00,656,4373,142,1086,Events
+195,0559,0535,Tanizaki Junichirou,SSR,Dark,Male,Armed Detective Agency,Offensive,2021-03-04 14:00,2021-03-04 08:00,899,7298,195,2091,Scouts
+196,0558,0534,Miyazawa Kenji,SSR,Light,Male,Armed Detective Agency,Special,2021-03-04 14:00,2021-03-04 08:00,959,8938,183,1526,Scouts
+197,0557,0533,Yosano Akiko,SSR,Azure,Female,Armed Detective Agency,Support,2021-03-04 14:00,2021-03-04 08:00,902,7696,194,1932,Scouts
+198,0556,0532,Herman M.,SSR,Azure,Male,Guild,Offensive,2021-03-01 14:00,2021-03-01 05:00,979,8010,213,2267,Scouts
+199,0555,0531,Kunikida Doppo,SSR,Dark,Male,Armed Detective Agency,Special,2021-02-25 14:00,2021-02-25 08:00,1036,9647,201,1702,Scouts
+200,0554,0530,Fyodor D.,SSR,Emerald,Male,Rats in the House of the Dead,Offensive,2021-02-18 14:00,2021-02-18 08:00,879,7199,199,2095,Scouts
+201,0553,0529,Shibusawa Tatsuhiko,SSR,Light,Male,Independent,Balanced,2021-02-18 14:00,2021-02-18 08:00,945,8450,185,1686,Scouts
+202,0552,0528,Louisa A.,SR,Crimson,Female,Guild,Special,2021-02-10 14:00,2021-02-18 08:00,690,4997,136,903,Events
+203,0551,0527,Haruno Kirako,SSR,Emerald,Female,Armed Detective Agency,Defensive,2021-02-10 14:00,2021-02-18 08:00,982,9593,178,1363,Scouts
+204,0550,0526,Tanizaki Naomi,SSR,Azure,Female,Armed Detective Agency,Support,2021-02-10 14:00,2021-02-18 08:00,902,7696,194,1932,Scouts
+205,0549,0524,Izumi Kyouka,SR,Light,Female,Armed Detective Agency,Support,2021-02-04 14:00,2021-02-04 08:00,656,4373,142,1086,Events
+206,0548,0523,Nakahara Chuuya,SR,Dark,Male,Port Mafia,Offensive,2021-02-04 14:00,2021-02-04 08:00,659,4199,142,1204,Events
+207,0547,0522,Gin,SSR,Crimson,Female,Port Mafia,Defensive,2021-02-04 14:00,2021-02-04 08:00,992,9682,176,1361,Scouts
+208,0546,0521,Akutagawa Ryuunosuke,SSR,Azure,Male,Port Mafia,Support,2021-02-04 14:00,2021-02-04 08:00,912,7785,192,1930,Scouts
+209,0545,0520,Dazai Osamu,SSR,Dark,Male,Armed Detective Agency,Special,2021-02-04 14:00,2021-02-04 08:00,949,8849,185,1528,Scouts
+210,0544,0519,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Balanced,2021-02-04 14:00,2021-02-04 08:00,945,8450,185,1686,Scouts
+211,0543,0525,Mark T.,SSR,Light,Male,Guild,Defensive,2021-02-01 14:00,2021-02-11 08:00,1081,10482,192,1456,Scouts
+212,0542,0518,Mark T.,SR,Azure,Male,Guild,Balanced,2021-01-21 14:00,2021-02-04 08:00,683,4754,137,963,Events
+213,0541,0517,Lovecraft,SSR,Crimson,Male,Guild,Balanced,2021-01-21 14:00,2021-02-04 08:00,935,8361,187,1688,Scouts
+214,0540,0516,John S.,SSR,Azure,Male,Guild,Support,2021-01-21 14:00,2021-02-04 08:00,902,7696,194,1932,Scouts
+215,0539,0515,Nakajima Atsushi,UR,Emerald,Male,Armed Detective Agency,Special,2021-01-14 14:00,2021-01-31 05:00,1075,12262,200,1982,Awakening
+216,0538,0514,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Special,2021-01-14 14:00,2021-01-31 05:00,1066,9914,197,1619,Scouts
+217,0537,0509,Margaret M.,SSR,Dark,Female,Guild,Offensive,2021-01-07 14:00,2021-01-07 08:00,969,7921,215,2269,Scouts
+218,0536,0508,Higuchi Ichiyou,SSR,Emerald,Female,Port Mafia,Special,2021-01-01 00:00,2021-01-07 08:00,818,7612,160,1345,Events
+219,0535,0507,Yumeno Kyuusaku,SSR,Light,Unknown,Port Mafia,Balanced,2021-01-01 00:00,2021-01-01 00:00,935,8361,187,1688,Scouts
+220,0534,0506,Nakahara Chuuya,SSR,Dark,Male,Port Mafia,Offensive,2021-01-01 00:00,2021-01-01 00:00,879,7199,199,2095,Scouts
+221,0533,0505,Gin,SSR,Azure,Female,Port Mafia,Offensive,2021-01-01 00:00,2021-01-01 00:00,899,7298,195,2091,Scouts
+222,0532,0504,Kajii Motojirou,SSR,Azure,Male,Port Mafia,Offensive,2021-01-01 00:00,2021-01-01 00:00,889,7288,197,2093,Scouts
+223,0531,0503,Hirotsu Ryuurou,SSR,Crimson,Male,Port Mafia,Defensive,2021-01-01 00:00,2021-01-01 00:00,972,9425,180,1365,Scouts
+224,0530,0502,Ozaki Kouyou,SSR,Light,Female,Port Mafia,Special,2021-01-01 00:00,2021-01-01 00:00,969,9027,181,1524,Scouts
+225,0529,0501,Mori Ougai,SSR,Dark,Male,Port Mafia,Special,2021-01-01 00:00,2021-01-01 00:00,959,8938,183,1526,Scouts
+226,0528,0500,Akutagawa Ryuunosuke,SSR,Emerald,Male,Port Mafia,Support,2021-01-01 00:00,2021-01-01 00:00,902,7696,194,1932,Scouts
+227,0527,0499,Sasaki Nobuko,SSR,Azure,Female,Independent,Special,2020-12-25 14:00,2020-12-25 05:00,1056,9825,197,1619,Scouts
+228,0526,0498,Katsura Shousaku,SSR,Light,Male,Independent,Defensive,2020-12-25 14:00,2020-12-25 05:00,1061,10304,196,1460,Scouts
+229,0525,0497,Agatha C.,SSR,Crimson,Female,Order of the Clock Tower,Support,2020-12-21 14:00,2020-12-22 08:00,995,8500,210,2106,Scouts
+230,0524,0495,Kunikida Doppo,SSR,Azure,Male,Armed Detective Agency,Defensive,2020-12-14 14:00,2020-12-22 08:00,848,8274,154,1181,Events
+231,0523,0496,Yosano Akiko,SSR,Dark,Female,Armed Detective Agency,Defensive,2020-12-14 14:00,2020-12-22 08:00,858,8363,152,1179,Events
+232,0522,0494,Fukuzawa Yukichi,SSR,Crimson,Male,Armed Detective Agency,Support,2020-12-14 14:00,2020-12-14 06:00,902,7696,194,1932,Scouts
+233,0521,0493,Edogawa Rampo,SSR,Emerald,Male,Armed Detective Agency,Support,2020-12-14 14:00,2020-12-14 06:00,922,7874,190,1849,Scouts
+234,0520,0492,Dazai Osamu,SSR,Emerald,Male,Armed Detective Agency,Offensive,2020-12-14 14:00,2020-12-14 06:00,889,7288,197,2093,Scouts
+235,0519,0491,Tanizaki Junichirou,SSR,Light,Male,Armed Detective Agency,Balanced,2020-12-14 14:00,2020-12-14 06:00,925,8272,189,1690,Scouts
+236,0518,0490,Izumi Kyouka,SSR,Azure,Female,Armed Detective Agency,Special,2020-12-14 14:00,2020-12-14 06:00,969,9027,181,1524,Scouts
+237,0517,0489,Miyazawa Kenji,SSR,Crimson,Male,Armed Detective Agency,Support,2020-12-14 14:00,2020-12-14 06:00,912,7785,192,1930,Scouts
+238,0516,0488,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Offensive,2020-12-14 14:00,2020-12-14 06:00,879,7199,199,2095,Scouts
+239,0515,0487,Taneda Santouka,SSR,Emerald,Male,Supernatural Ability Special Investigation Division,Special,2020-12-03 14:00,2020-12-07 05:00,1036,9647,201,1702,Scouts
+240,0514,0484,Izumi Kyouka,SSR,Emerald,Female,Armed Detective Agency,Special,2020-12-01 14:00,2020-12-01 05:00,1046,9736,199,1621,Scouts
+241,0513,0483,Dazai Osamu,SSR,Crimson,Male,Port Mafia,Defensive,2020-11-26 14:00,2020-11-26 08:00,972,9425,180,1365,Scouts
+242,0512,0482,Sakaguchi Ango,SSR,Light,Male,Port Mafia,Balanced,2020-11-26 14:00,2020-11-26 08:00,945,8450,185,1686,Scouts
+243,0511,0481,Oda Sakunosuke,SSR,Dark,Male,Port Mafia,Special,2020-11-26 14:00,2020-11-26 08:00,959,8938,183,1526,Scouts
+244,0510,0605,Mori Ougai,SR,Emerald,Male,Port Mafia,Special,2020-11-12 14:00,2021-09-02 08:00,690,4997,136,903,Events
+245,0509,0604,Akutagawa Ryuunosuke,SSR,Crimson,Male,Port Mafia,Balanced,2020-11-12 14:00,2021-09-02 08:00,798,7118,164,1507,Events
+246,0508,0478,Ozaki Kouyou,SSR,Azure,Female,Port Mafia,Defensive,2020-11-12 14:00,2020-11-19 08:00,982,9593,178,1363,Scouts
+247,0507,0477,Higuchi Ichiyou,SSR,Dark,Female,Port Mafia,Support,2020-11-12 14:00,2020-11-19 08:00,922,7874,190,1849,Scouts
+248,0506,0476,Kajii Motojirou,SSR,Light,Male,Port Mafia,Balanced,2020-11-12 14:00,2020-11-19 08:00,935,8361,187,1688,Scouts
+249,0505,0475,Nakahara Chuuya,SSR,Emerald,Male,Port Mafia,Special,2020-11-12 14:00,2020-11-19 08:00,949,8849,185,1528,Scouts
+250,0504,0486,Francis F.,UR,Azure,Male,Guild,Balanced,2020-11-05 14:00,2020-12-03 08:00,1050,11445,205,2284,Awakening
+251,0503,0485,Francis F.,SSR,Azure,Male,Guild,Balanced,2020-11-05 14:00,2020-12-03 08:00,1040,9256,202,1861,Scouts
+252,0502,0480,Yumeno Kyuusaku,SR,Crimson,Unknown,Port Mafia,Special,2020-11-01 14:00,2020-11-19 08:00,710,5135,132,840,Events
+253,0501,0479,Mori Ougai,SSR,Azure,Male,Port Mafia,Defensive,2020-11-01 14:00,2020-11-19 08:00,992,9682,176,1361,Scouts
+254,0500,0512,Margaret M.,SSR,Light,Female,Guild,Support,2020-11-01 14:00,2021-01-21 08:00,871,7428,183,1842,Scouts
+255,0499,0511,Nathaniel H.,SSR,Dark,Male,Guild,Offensive,2020-11-01 14:00,2021-01-21 08:00,979,8010,213,2267,Scouts
+256,0498,0471,Fyodor D.,SSR,Azure,Male,Rats in the House of the Dead,Special,2020-10-26 14:00,2020-10-25 05:00,1046,9736,199,1621,Scouts
+257,0497,0469,Fukuzawa Yukichi,SR,Emerald,Male,Armed Detective Agency,Support,2020-10-15 14:00,2020-10-15 08:00,666,4442,140,1084,Events
+258,0496,0468,Edogawa Rampo,SR,Dark,Male,Armed Detective Agency,Defensive,2020-10-15 14:00,2020-10-15 08:00,707,5309,132,781,Events
+259,0495,0467,Nakajima Atsushi,SSR,Azure,Male,Armed Detective Agency,Support,2020-10-15 14:00,2020-10-15 08:00,902,7696,194,1932,Scouts
+260,0494,0466,Izumi Kyouka,SSR,Light,Female,Armed Detective Agency,Offensive,2020-10-15 14:00,2020-10-15 08:00,879,7199,199,2095,Scouts
+261,0493,0465,Tanizaki Junichirou,SSR,Emerald,Male,Armed Detective Agency,Defensive,2020-10-15 14:00,2020-10-15 08:00,992,9682,176,1361,Scouts
+262,0492,0464,Kunikida Doppo,SSR,Dark,Male,Armed Detective Agency,Balanced,2020-10-15 14:00,2020-10-15 08:00,935,8361,187,1688,Scouts
+263,0491,?,Nakajima Atsushi,EX,Emerald,Male,Armed Detective Agency,Defensive,2020-10-08 14:00,?,1061,10304,196,1460,Scouts
+264,0490,?,Shibusawa Tatsuhiko,EX,Crimson,Male,Independent,Support,2020-10-08 14:00,?,1005,8589,208,2025,Scouts
+265,0489,0463,Yosano Akiko,SR,Azure,Female,Armed Detective Agency,Offensive,2020-10-03 14:00,2020-10-08 08:00,639,4061,146,1208,Events
+266,0488,0461,Edogawa Rampo,SSR,Dark,Male,Armed Detective Agency,Defensive,2020-10-03 14:00,2020-10-08 08:00,992,9682,176,1361,Scouts
+267,0487,0462,Poe,SSR,Light,Male,Guild,Balanced,2020-10-03 14:00,2020-10-08 08:00,925,8272,189,1690,Scouts
+268,0486,0472,Hirotsu Ryuurou,SSR,Emerald,Male,Port Mafia,Support,2020-10-01 14:00,2020-10-29 08:00,1005,8589,208,2025,Scouts
+269,0485,?,Oda Sakunosuke,SSR,Crimson,Male,Independent,Offensive,2020-09-27 14:00,?,959,7832,217,2350,Scouts
+270,0484,?,Edogawa Rampo,SSR,Azure,Male,Armed Detective Agency,Balanced,2020-09-27 14:00,?,1020,9078,204,1863,Scouts
+271,0483,?,Dazai Osamu,SSR,Light,Male,Armed Detective Agency,Support,2020-09-27 14:00,?,1005,8589,208,2025,Scouts
+272,0482,0594,Lovecraft,EX,Emerald,Male,Guild,Offensive,2020-09-20 14:00,2021-08-08 05:00,979,8010,213,2267,Scouts
+273,0481,0593,Tanizaki Junichirou,EX,Dark,Male,Armed Detective Agency,Support,2020-09-20 14:00,2021-08-08 05:00,995,8500,210,2106,Scouts
+274,0480,0547,Oda Sakunosuke,SR,Emerald,Male,Port Mafia,Special,2020-09-10 14:00,2021-03-23 05:00,710,5135,132,840,Events
+275,0479,0546,Dazai Osamu,SSR,Azure,Male,Armed Detective Agency,Balanced,2020-09-10 14:00,2021-03-23 05:00,808,7207,162,1505,Events
+276,0478,0545,Kunikida Doppo,SR,Crimson,Male,Armed Detective Agency,Balanced,2020-09-10 14:00,2021-03-23 05:00,673,4685,139,965,Scouts
+277,0477,0544,Sakaguchi Ango,SSR,Azure,Male,Port Mafia,Offensive,2020-09-10 14:00,2021-03-23 05:00,899,7298,195,2091,Scouts
+278,0476,0543,Akutagawa Ryuunosuke,SSR,Dark,Male,Port Mafia,Special,2020-09-10 14:00,2021-03-23 05:00,959,8938,183,1526,Scouts
+279,0475,0542,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Defensive,2020-09-10 14:00,2021-03-23 05:00,972,9425,180,1365,Scouts
+280,0474,0453,Izumi Kyouka,SR,Dark,Female,Armed Detective Agency,Offensive,2020-09-10 14:00,2020-09-24 08:00,649,4130,144,1206,Events
+281,0473,0458,Poe,SSR,Crimson,Male,Guild,Defensive,2020-09-01 14:00,2020-10-03 05:00,1081,10482,192,1456,Scouts
+282,0472,0452,Lucy M.,SR,Light,Female,Guild,Offensive,2020-08-27 14:00,2020-09-19 05:00,639,4061,146,1208,Events
+283,0471,0473,Fukuzawa Yukichi,SSR,Azure,Male,Armed Detective Agency,Offensive,2020-08-27 14:00,2020-11-05 08:00,959,7832,230,2442,Scouts
+284,0470,0439,Poe,SR,Light,Male,Guild,Defensive,2020-08-10 14:00,2020-08-13 05:00,727,5447,128,777,Events
+285,0469,0438,Lucy M.,SR,Emerald,Female,Guild,Support,2020-08-10 14:00,2020-08-13 05:00,666,4442,140,1084,Scouts
+286,0468,0437,Francis F.,SSR,Light,Male,Guild,Defensive,2020-08-10 14:00,2020-08-13 05:00,982,9593,178,1363,Scouts
+287,0467,0436,Nathaniel H.,SSR,Azure,Male,Guild,Balanced,2020-08-10 14:00,2020-08-13 05:00,925,8272,189,1690,Scouts
+288,0466,0441,Kajii Motojirou,SSR,Dark,Male,Port Mafia,Support,2020-08-10 14:00,2020-08-20 08:00,922,7874,190,1849,Scouts
+289,0465,0440,Nakahara Chuuya,SSR,Azure,Male,Port Mafia,Offensive,2020-08-10 14:00,2020-08-20 08:00,889,7288,197,2093,Scouts
+290,0464,0435,Edogawa Rampo,SSR,Emerald,Male,Armed Detective Agency,Special,2020-08-10 14:00,2020-08-13 05:00,949,8849,185,1528,Scouts
+291,0463,0434,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Balanced,2020-08-10 14:00,2020-08-13 05:00,945,8450,185,1686,Scouts
+292,0462,0433,Dazai Osamu,SR,Dark,Male,Armed Detective Agency,Balanced,2020-08-07 14:00,2020-08-09 05:00,673,4685,139,965,Scouts
+293,0461,0432,Fyodor D.,SSR,Light,Male,Rats in the House of the Dead,Defensive,2020-08-07 14:00,2020-08-09 05:00,982,9593,178,1363,Scouts
+294,0460,0431,Shibusawa Tatsuhiko,SSR,Emerald,Male,Independent,Special,2020-08-07 14:00,2020-08-09 05:00,949,8849,185,1528,Scouts
+295,0459,0448,Mori Ougai,UR,Crimson,Male,Port Mafia,Support,2020-08-07 14:00,2020-09-03 08:00,985,10291,203,2480,Awakening
+296,0458,0451,Tachihara Michizou,SSR,Dark,Male,Port Mafia,Balanced,2020-07-30 14:00,2020-09-14 05:00,1010,8989,206,1865,Scouts
+297,0457,0449,Gide,SSR,Dark,Male,Mimic,Balanced,2020-07-22 14:00,2020-09-03 08:00,945,8450,185,1686,Scouts
+298,0456,0427,Fukuzawa Yukichi,SSR,Light,Male,Armed Detective Agency,Defensive,2020-07-16 14:00,2020-07-22 08:00,1061,10304,196,1460,Scouts
+299,0455,0513,Mark T.,SR,Dark,Male,Guild,Offensive,2020-07-14 14:00,2021-01-21 08:00,659,4199,142,1204,Events
+300,0454,?,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Balanced,2020-07-14 14:00,?,798,7118,164,1507,Events
+301,0453,0446,Herman M.,SR,Crimson,Male,Guild,Defensive,2020-07-09 14:00,2020-08-25 05:00,717,5378,130,779,Scouts
+302,0452,0445,Lucy M.,SSR,Dark,Female,Guild,Support,2020-07-09 14:00,2020-08-25 05:00,902,7696,194,1932,Scouts
+303,0451,0444,Izumi Kyouka,SSR,Crimson,Female,Armed Detective Agency,Balanced,2020-07-09 14:00,2020-08-25 05:00,935,8361,187,1688,Scouts
+304,0450,0443,Dazai Osamu,SSR,Emerald,Male,Armed Detective Agency,Defensive,2020-07-09 14:00,2020-08-25 05:00,992,9682,176,1361,Scouts
+305,0449,?,Miyazawa Kenji,SR,Crimson,Male,Armed Detective Agency,Balanced,2020-07-02 14:00,?,673,4685,139,965,Events
+306,0448,0426,Akutagawa Ryuunosuke,SSR,Light,Male,Port Mafia,Defensive,2020-07-02 14:00,2020-07-17 05:00,992,9682,176,1361,Scouts
+307,0447,0425,Tachihara Michizou,SSR,Azure,Male,Port Mafia,Special,2020-07-02 14:00,2020-07-17 05:00,949,8849,185,1528,Scouts
+308,0446,0424,Higuchi Ichiyou,SSR,Crimson,Female,Port Mafia,Offensive,2020-07-02 14:00,2020-07-17 05:00,889,7288,197,2093,Scouts
+309,0445,0447,Yumeno Kyuusaku,SSR,Light,Unknown,Port Mafia,Special,2020-07-01 14:00,2020-08-29 05:00,1056,9825,197,1619,Scouts
+310,0444,0450,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Special,2020-06-25 14:00,2020-09-05 05:00,1046,9736,199,1621,Scouts
+311,0443,0442,Fukuzawa Yukichi,SSR,Light,Male,Armed Detective Agency,Support,2020-06-25 14:00,2020-08-25 05:00,778,6624,168,1669,Events
+312,0442,0457,Nakahara Chuuya,EX,Azure,Male,Port Mafia,Offensive,2020-06-19 14:00,2020-09-28 05:00,959,7832,217,2350,Scouts
+313,0441,0455,Akutagawa Ryuunosuke,EX,Dark,Male,Port Mafia,Balanced,2020-06-14 14:00,2020-09-24 08:00,1020,9078,204,1863,Scouts
+314,0440,0454,Nakajima Atsushi,EX,Crimson,Male,Armed Detective Agency,Offensive,2020-06-14 14:00,2020-09-24 08:00,979,8010,213,2267,Scouts
+315,0439,0456,Francis F.,EX,Light,Male,Guild,Support,2020-06-14 14:00,2020-09-24 08:00,829,7070,175,1755,Events
+316,0438,0415,Miyazawa Kenji,SSR,Azure,Male,Armed Detective Agency,Offensive,2020-06-04 14:00,2020-06-20 05:00,899,7298,195,2091,Scouts
+317,0437,0414,Kunikida Doppo,SSR,Light,Male,Armed Detective Agency,Support,2020-06-04 14:00,2020-06-20 05:00,902,7696,194,1932,Scouts
+318,0436,0416,Ozaki Kouyou,SR,Dark,Female,Port Mafia,Defensive,2020-06-04 14:00,2020-06-20 05:00,717,5378,130,779,Events
+319,0435,0429,Sakaguchi Ango,SSR,Emerald,Male,Port Mafia,Offensive,2020-06-01 14:00,2020-07-30 05:00,959,7832,217,2350,Scouts
+320,0434,0423,Architect,SSR,Azure,Male,Independent,Defensive,2020-05-25 14:00,2020-07-03 08:00,982,9593,178,1363,Scouts
+321,0433,0412,Poe,SSR,Dark,Male,Guild,Support,2020-05-21 14:00,2020-06-13 05:00,922,7874,190,1849,Scouts
+322,0432,0413,Lucy M.,SR,Azure,Female,Guild,Support,2020-05-21 14:00,2020-06-13 05:00,656,4373,142,1086,Scouts
+323,0431,0399,Edogawa Rampo,SSR,Azure,Male,Armed Detective Agency,Special,2020-05-18 14:00,2020-05-18 05:00,1046,9736,199,1621,Scouts
+324,0430,0408,Yumeno Kyuusaku,SSR,Crimson,Unknown,Port Mafia,Offensive,2020-05-14 14:00,2020-06-06 05:00,879,7199,199,2095,Scouts
+325,0429,0409,Higuchi Ichiyou,SR,Azure,Female,Port Mafia,Special,2020-05-14 14:00,2020-06-06 05:00,700,5066,134,901,Scouts
+326,0428,0407,Izumi Kyouka,SSR,Emerald,Female,Armed Detective Agency,Balanced,2020-05-14 14:00,2020-06-06 05:00,798,7118,164,1507,Events
+327,0427,0403,Poe,SSR,Azure,Male,Guild,Special,2020-05-14 14:00,2020-06-03 08:00,905,8489,177,1441,Scouts
+328,0426,0404,Poe,SR,Crimson,Male,Guild,Support,2020-05-14 14:00,2020-06-03 08:00,656,4373,142,1086,Scouts
+329,0425,0405,Poe,R,Emerald,Male,Guild,Defensive,2020-05-14 14:00,2020-06-03 08:00,552,2931,100,412,Scouts
+330,0424,0406,Tanizaki Junichirou,SSR,Light,Male,Armed Detective Agency,Special,2020-05-11 14:00,2020-06-03 08:00,959,8938,183,1526,Scouts
+331,0423,0410,Kajii Motojirou,SSR,Emerald,Male,Port Mafia,Defensive,2020-05-03 14:00,2020-06-09 05:00,992,9682,176,1361,Scouts
+332,0422,0411,Ozaki Kouyou,SSR,Dark,Female,Port Mafia,Balanced,2020-05-03 14:00,2020-06-09 05:00,925,8272,189,1690,Scouts
+333,0421,0428,Higuchi Ichiyou,SSR,Light,Female,Port Mafia,Balanced,2020-05-01 14:00,2020-07-27 05:00,1030,9167,202,1861,Scouts
+334,0420,0397,Francis F.,UR,Light,Male,Guild,Offensive,2020-04-23 14:00,2020-05-14 08:00,950,9464,210,2784,Awakening
+335,0419,0387,Francis F.,SSR,Dark,Male,Guild,Special,2020-04-16 14:00,2020-04-16 08:00,969,9027,181,1524,Scouts
+336,0418,0386,Fukuzawa Yukichi,SSR,Crimson,Male,Armed Detective Agency,Offensive,2020-04-16 14:00,2020-04-16 08:00,889,7288,197,2093,Scouts
+337,0417,0385,Mori Ougai,SSR,Light,Male,Port Mafia,Defensive,2020-04-16 14:00,2020-04-16 08:00,972,9425,180,1365,Scouts
+338,0416,0389,Ozaki Kouyou,SR,Azure,Female,Port Mafia,Special,2020-04-16 14:00,2020-04-16 08:00,710,5135,132,840,Events
+339,0415,0388,Nakahara Chuuya,SR,Dark,Male,Port Mafia,Support,2020-04-16 14:00,2020-04-16 08:00,666,4442,140,1084,Events
+340,0414,0398,Nakahara Chuuya,SSR,Crimson,Male,Port Mafia,Balanced,2020-04-09 14:00,2020-05-14 08:00,1010,8989,206,1865,Scouts
+341,0413,0383,Izumi Kyouka,SSR,Crimson,Female,Armed Detective Agency,Special,2020-04-06 14:00,2020-04-12 05:00,949,8849,185,1528,Scouts
+342,0412,0382,Oda Sakunosuke,SSR,Emerald,Male,Port Mafia,Support,2020-04-06 14:00,2020-04-12 05:00,922,7874,190,1849,Scouts
+343,0411,0400,Yosano Akiko,SSR,Dark,Female,Armed Detective Agency,Balanced,2020-04-02 14:00,2020-05-25 05:00,935,8361,187,1688,Scouts
+344,0410,0401,Kajii Motojirou,SR,Crimson,Male,Port Mafia,Offensive,2020-04-02 14:00,2020-05-25 05:00,639,4061,146,1208,Events
+345,0409,0375,Francis F.,SR,Crimson,Male,Guild,Offensive,2020-04-01 00:00,2020-04-01 00:00,649,4130,144,1206,Events
+346,0408,0374,Akutagawa Ryuunosuke,SR,Azure,Male,Port Mafia,Defensive,2020-04-01 00:00,2020-04-01 00:00,707,5309,132,781,Events
+347,0407,0418,John S.,SSR,Dark,Male,Guild,Special,2020-03-30 14:00,2020-06-28 05:00,1046,9736,199,1621,Scouts
+348,0406,0372,Dazai Osamu,SSR,Crimson,Male,Armed Detective Agency,Support,2020-03-19 14:00,2020-03-23 08:00,985,8411,212,2108,Scouts
+349,0405,0384,Izumi Kyouka,SSR,Azure,Female,Armed Detective Agency,Defensive,2020-03-15 14:00,2020-04-16 08:00,1081,10482,192,1456,Scouts
+350,0404,0391,Lucy M.,SSR,Emerald,Female,Guild,Offensive,2020-03-12 14:00,2020-04-30 08:00,889,7288,197,2093,Scouts
+351,0403,0392,Mark T.,SSR,Azure,Male,Guild,Balanced,2020-03-12 14:00,2020-04-30 08:00,945,8450,185,1686,Scouts
+352,0402,0393,Francis F.,SR,Light,Male,Guild,Offensive,2020-03-12 14:00,2020-04-30 08:00,639,4061,146,1208,Scouts
+353,0401,0395,Margaret M.,SR,Azure,Female,Guild,Special,2020-03-12 14:00,2020-04-30 08:00,710,5135,132,840,Events
+354,0400,0394,Nathaniel H.,SR,Crimson,Male,Guild,Balanced,2020-03-12 14:00,2020-04-30 08:00,683,4754,137,963,Events
+355,0399,0370,Tanizaki Junichirou,SSR,Crimson,Male,Armed Detective Agency,Special,2020-03-05 14:00,2020-03-16 08:30,949,8849,185,1528,Scouts
+356,0398,0369,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Defensive,2020-03-05 14:00,2020-03-16 08:30,992,9682,176,1361,Scouts
+357,0397,0371,Yumeno Kyuusaku,SR,Emerald,Unknown,Port Mafia,Support,2020-03-05 14:00,2020-03-16 08:30,676,4511,138,1082,Events
+358,0396,0417,Miyazawa Kenji,SSR,Emerald,Male,Armed Detective Agency,Special,2020-03-01 14:00,2020-06-28 05:00,1046,9736,199,1621,Scouts
+359,0395,0402,Nakahara Chuuya,SSR,Light,Male,Port Mafia,Defensive,2020-02-25 14:00,2020-05-28 05:00,1061,10304,196,1460,Scouts
+360,0394,0363,Mori Ougai,SSR,Azure,Male,Port Mafia,Offensive,2020-02-20 14:00,2020-03-12 05:00,889,7288,197,2093,Scouts
+361,0393,0364,Ozaki Kouyou,SR,Emerald,Female,Port Mafia,Defensive,2020-02-20 14:00,2020-03-12 05:00,707,5309,132,781,Scouts
+362,0392,0390,Mark T.,SR,Light,Male,Guild,Support,2020-02-20 14:00,2020-04-23 08:00,666,4442,140,1084,Scouts
+363,0391,0365,Higuchi Ichiyou,SR,Crimson,Female,Port Mafia,Support,2020-02-20 14:00,2020-03-12 05:00,676,4511,138,1082,Scouts
+364,0390,0396,Dazai Osamu,SSR,Dark,Male,Armed Detective Agency,Support,2020-02-15 14:00,2020-05-07 05:00,1005,8589,208,2025,Scouts
+365,0389,0361,Akutagawa Ryuunosuke,R,Dark,Male,Port Mafia,Special,2020-02-13 14:00,2020-03-06 08:00,487,2515,93,444,Events
+366,0388,0360,Akutagawa Ryuunosuke,SR,Dark,Male,Port Mafia,Special,2020-02-13 14:00,2020-03-06 08:00,633,4586,121,770,Awakening
+367,0387,0359,Akutagawa Ryuunosuke,SSR,Dark,Male,Port Mafia,Special,2020-02-13 14:00,2020-03-06 08:00,828,7701,158,1343,Awakening
+368,0386,0358,Gin,SSR,Dark,Female,Port Mafia,Support,2020-02-13 14:00,2020-03-06 08:00,922,7874,190,1849,Scouts
+369,0385,0357,Hirotsu Ryuurou,SSR,Light,Male,Port Mafia,Balanced,2020-02-13 14:00,2020-03-06 08:00,925,8272,189,1690,Scouts
+370,0384,0381,Yosano Akiko,SR,Light,Female,Armed Detective Agency,Defensive,2020-02-04 14:00,2020-04-09 08:00,707,5309,132,781,Events
+371,0383,0380,Gin,SSR,Emerald,Female,Port Mafia,Balanced,2020-02-04 14:00,2020-04-09 08:00,935,8361,187,1688,Scouts
+372,0382,0379,Higuchi Ichiyou,SSR,Azure,Female,Port Mafia,Special,2020-02-04 14:00,2020-04-09 08:00,949,8849,185,1528,Scouts
+373,0381,0510,Kajii Motojirou,SSR,Azure,Male,Port Mafia,Special,2020-02-01 14:00,2021-01-14 08:00,1056,9825,197,1619,Scouts
+374,0380,0351,Mori Ougai,SR,Crimson,Male,Port Mafia,Balanced,2020-01-23 14:00,2020-02-06 08:00,683,4754,137,963,Events
+375,0379,0348,Lucy M.,UR,Azure,Female,Guild,Support,2020-01-23 14:00,2020-02-06 08:00,985,10291,203,2480,Awakening
+376,0378,0346,Mori Ougai,SR,Light,Male,Port Mafia,Offensive,2020-01-16 14:00,2020-01-23 08:00,659,4199,142,1204,Events
+377,0377,0345,Fukuzawa Yukichi,SSR,Dark,Male,Armed Detective Agency,Special,2020-01-16 14:00,2020-01-23 08:00,969,9027,181,1524,Scouts
+378,0376,0344,Kunikida Doppo,SSR,Crimson,Male,Armed Detective Agency,Defensive,2020-01-16 14:00,2020-01-23 08:00,982,9593,178,1363,Scouts
+379,0375,0368,Yumeno Kyuusaku,R,Crimson,Unknown,Port Mafia,Balanced,2020-01-04 00:00,2020-03-16 08:30,515,2543,107,536,Scouts
+380,0374,0367,Yumeno Kyuusaku,SR,Azure,Unknown,Port Mafia,Defensive,2020-01-04 00:00,2020-03-16 08:30,727,5447,128,777,Scouts
+381,0373,0337,Edogawa Rampo,SSR,Dark,Male,Armed Detective Agency,Offensive,2020-01-01 00:00,2020-01-01 00:00,778,6387,168,1827,Events
+382,0372,0336,Francis F.,SSR,Crimson,Male,Guild,Defensive,2020-01-01 00:00,2020-01-01 00:00,982,9593,178,1363,Scouts
+383,0371,0335,Izumi Kyouka,SSR,Azure,Female,Port Mafia,Balanced,2020-01-01 00:00,2020-01-01 00:00,925,8272,189,1690,Scouts
+384,0370,0334,Miyazawa Kenji,SSR,Light,Male,Armed Detective Agency,Support,2020-01-01 00:00,2020-01-01 00:00,922,7874,190,1849,Scouts
+385,0369,0333,Sakaguchi Ango,UR,Crimson,Male,Port Mafia,Special,2019-12-26 14:00,2019-12-26 09:00,1025,11717,195,1977,Awakening
+386,0368,0332,Oda Sakunosuke,UR,Emerald,Male,Port Mafia,Support,2019-12-26 14:00,2019-12-26 09:00,965,10073,207,2484,Awakening
+387,0367,0366,Yumeno Kyuusaku,SSR,Dark,Unknown,Port Mafia,Balanced,2019-12-20 14:00,2020-03-16 08:30,903,8092,177,1599,Scouts
+388,0366,0331,Kunikida Doppo,SSR,Emerald,Male,Armed Detective Agency,Offensive,2019-12-20 14:00,2019-12-26 09:00,969,7921,215,2269,Scouts
+389,0365,0330,Higuchi Ichiyou,SSR,Light,Female,Port Mafia,Offensive,2019-12-14 12:00,?,768,6298,170,1829,Events
+390,0364,0329,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Defensive,2019-12-14 12:00,?,1061,10304,196,1460,Scouts
+391,0363,0322,Lovecraft,SR,Azure,Male,Guild,Balanced,2019-12-05 17:00,2019-12-05 17:00,683,4754,137,963,Events
+392,0362,0321,John S.,SR,Crimson,Male,Guild,Offensive,2019-12-05 17:00,2019-12-05 17:00,639,4061,146,1208,Events
+393,0361,0320,Tanizaki Junichirou,SSR,Emerald,Male,Armed Detective Agency,Support,2019-12-05 17:00,2019-12-05 17:00,912,7785,192,1930,Scouts
+394,0360,0319,Kunikida Doppo,SSR,Light,Male,Armed Detective Agency,Special,2019-12-05 17:00,2019-12-05 17:00,949,8849,185,1528,Scouts
+395,0359,0376,Edogawa Rampo,SSR,Light,Male,Armed Detective Agency,Offensive,2019-12-01 14:00,2020-04-01 05:00,959,7832,217,2350,Scouts
+396,0358,0314,Ozaki Kouyou,SR,Crimson,Female,Port Mafia,Offensive,2019-11-22 17:00,2019-11-22 17:00,649,4130,144,1206,Scouts
+397,0357,0313,Nakahara Chuuya,SSR,Azure,Male,Port Mafia,Special,2019-11-22 17:00,2019-11-22 17:00,959,8938,183,1526,Scouts
+398,0356,0312,Miyazawa Kenji,SR,Azure,Male,Armed Detective Agency,Special,2019-11-15 17:00,2019-11-15 17:00,690,4997,136,903,Events
+399,0355,0311,Tanizaki Junichirou,SR,Dark,Male,Armed Detective Agency,Support,2019-11-15 17:00,2019-11-15 17:00,676,4511,138,1082,Events
+400,0354,0310,Nakajima Atsushi,SR,Light,Male,Armed Detective Agency,Special,2019-11-15 17:00,2019-11-15 17:00,690,4997,136,903,Scouts
+401,0353,0309,Izumi Kyouka,SSR,Dark,Female,Armed Detective Agency,Defensive,2019-11-15 17:00,2019-11-15 17:00,972,9425,180,1365,Scouts
+402,0352,0342,Hirotsu Ryuurou,UR,Azure,Male,Port Mafia,Defensive,2019-11-08 17:00,2020-01-15 05:00,1060,12643,188,1772,Awakening
+403,0351,0341,Higuchi Ichiyou,UR,Emerald,Female,Port Mafia,Support,2019-11-08 17:00,2020-01-15 05:00,965,10073,207,2484,Awakening
+404,0350,0306,Ayatsuji Yukito,SSR,Emerald,Male,Independent,Support,2019-11-08 17:00,?,1005,8589,208,2025,Scouts
+405,0349,0474,Kajii Motojirou,SR,Light,Male,Port Mafia,Balanced,2019-11-04 14:00,2020-11-11 08:00,683,4754,137,963,Events
+406,0348,0307,Margaret M.,SR,Emerald,Female,Guild,Balanced,2019-11-08 00:00,?,673,4685,139,965,Scouts
+407,0347,0378,Yosano Akiko,SSR,Emerald,Female,Armed Detective Agency,Balanced,2019-11-04 14:00,2020-04-01 05:00,925,8272,189,1690,Scouts
+408,0346,0377,Edogawa Rampo,SSR,Crimson,Male,Armed Detective Agency,Defensive,2019-11-04 14:00,2020-04-01 05:00,982,9593,178,1363,Scouts
+409,0345,0299,Fyodor D.,SSR,Dark,Male,Rats in the House of the Dead,Special,2019-10-24 17:00,2019-10-24 16:00,959,8938,183,1526,Scouts
+410,0344,0298,Shibusawa Tatsuhiko,SSR,Azure,Male,Independent,Defensive,2019-10-24 17:00,2019-10-24 16:00,972,9425,180,1365,Scouts
+411,0343,0302,Sakaguchi Ango,SR,Dark,Male,Port Mafia,Offensive,2019-10-17 17:00,2019-10-24 16:00,639,4061,146,1208,Events
+412,0342,0301,Dazai Osamu,SR,Emerald,Male,Port Mafia,Support,2019-10-17 17:00,2019-10-24 16:00,676,4511,138,1082,Events
+413,0341,0300,Oda Sakunosuke,SSR,Emerald,Male,Port Mafia,Balanced,2019-10-17 17:00,2019-10-24 16:00,945,8450,185,1686,Scouts
+414,0340,0470,Gin,SR,Light,Female,Port Mafia,Defensive,2019-10-03 17:00,2020-10-22 08:00,717,5378,130,779,Events
+415,0339,0460,Higuchi Ichiyou,SSR,Crimson,Female,Port Mafia,Balanced,2019-10-03 17:00,2020-10-08 08:00,935,8361,187,1688,Scouts
+416,0338,0459,Akutagawa Ryuunosuke,SSR,Light,Male,Port Mafia,Offensive,2019-10-03 17:00,2020-10-08 08:00,879,7199,199,2095,Scouts
+417,0337,0347,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Support,2019-10-01 14:00,2020-02-01 05:00,995,8500,210,2106,Scouts
+418,0336,0288,Agatha C.,SR,Light,Female,Order of the Clock Tower,Special,2019-09-19 17:00,2019-09-19 17:00,710,5135,132,840,Events
+419,0335,0287,Shibusawa Tatsuhiko,SSR,Light,Male,Independent,Balanced,2019-09-26 17:00,2019-09-26 17:00,925,8272,189,1690,Scouts
+420,0334,0286,Akutagawa Ryuunosuke,SSR,Azure,Male,Port Mafia,Support,2019-09-26 17:00,2019-09-26 17:00,922,7874,190,1849,Scouts
+421,0333,0285,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Offensive,2019-09-26 17:00,2019-09-26 17:00,879,7199,199,2095,Scouts
+422,0332,0284,Mori Ougai,SR,Emerald,Male,Port Mafia,Defensive,2019-09-19 17:00,2019-09-19 17:00,717,5378,130,779,Events
+423,0331,0283,Fukuzawa Yukichi,SR,Dark,Male,Armed Detective Agency,Offensive,2019-09-19 17:00,2019-09-19 17:00,639,4061,146,1208,Events
+424,0330,0282,Dazai Osamu,SSR,Emerald,Male,Armed Detective Agency,Balanced,2019-09-19 17:00,2019-09-19 17:00,935,8361,187,1688,Scouts
+425,0329,0281,Izumi Kyouka,SSR,Crimson,Female,Armed Detective Agency,Offensive,2019-09-12 17:00,2019-09-12 17:00,959,7832,217,2350,Scouts
+426,0328,0355,Akutagawa Ryuunosuke,SSR,Azure,Male,Port Mafia,Defensive,2019-09-05 14:00,2020-02-27 08:00,982,9593,178,1363,Scouts
+427,0327,0276,Edogawa Rampo,SR,Light,Male,Armed Detective Agency,Special,2019-08-23 17:00,2019-08-23 18:00,710,5135,132,840,Events
+428,0326,0275,Dazai Osamu,SSR,Azure,Male,Armed Detective Agency,Offensive,2019-08-23 17:00,2019-08-23 18:00,899,7298,195,2091,Scouts
+429,0325,0274,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Balanced,2019-08-23 17:00,2019-08-23 18:00,925,8272,189,1690,Scouts
+430,0324,0273,Tachihara Michizou,SR,Azure,Male,Port Mafia,Support,2019-08-16 17:00,2019-08-23 18:00,666,4442,140,1084,Events
+431,0323,0272,Nakahara Chuuya,SSR,Light,Male,Port Mafia,Defensive,2019-08-16 17:00,2019-08-23 18:00,992,9682,176,1361,Scouts
+432,0322,0271,Akutagawa Ryuunosuke,SSR,Dark,Male,Port Mafia,Offensive,2019-08-16 17:00,2019-08-23 18:00,879,7199,199,2095,Scouts
+433,0321,0356,Oda Sakunosuke,SSR,Crimson,Male,Port Mafia,Special,2019-08-09 14:00,2020-02-27 08:00,959,8938,183,1526,Scouts
+434,0320,0303,Ozaki Kouyou,SSR,Azure,Female,Port Mafia,Offensive,2019-08-01 14:00,?,969,7921,215,2269,Scouts
+435,0319,0430,John S.,SR,Emerald,Male,Guild,Balanced,2019-07-26 17:00,2020-08-06 08:00,673,4685,139,965,Events
+436,0318,0246,Sakaguchi Ango,SSR,Light,Male,Port Mafia,Support,2019-07-19 17:00,?,902,7696,194,1932,Scouts
+437,0317,0245,Oda Sakunosuke,SSR,Azure,Male,Port Mafia,Defensive,2019-07-19 17:00,?,992,9682,176,1361,Scouts
+438,0316,0244,Dazai Osamu,SSR,Dark,Male,Port Mafia,Offensive,2019-07-19 17:00,?,889,7288,197,2093,Scouts
+439,0315,0308,Architect,SR,Azure,Male,Independent,Special,2019-07-19 17:00,?,710,5135,132,840,Events
+440,0314,0343,Shibusawa Tatsuhiko,SSR,Emerald,Male,Independent,Special,2019-07-14 14:00,2020-01-15 05:00,1036,9647,201,1702,Scouts
+441,0313,0305,Ayatsuji Yukito,SR,Crimson,Male,Independent,Defensive,2019-07-12 17:00,?,717,5378,130,779,Events
+442,0312,0304,Kyougoku Natsuhiko,SSR,Light,Male,Independent,Offensive,2019-07-12 17:00,?,879,7199,199,2095,Scouts
+443,0311,0548,Tachihara Michizou,SSR,Dark,Male,Port Mafia,Support,?,2021-03-25 08:00,861,7339,185,1844,Scouts
+444,0310,0318,Fyodor D.,SSR,Crimson,Male,Rats in the House of the Dead,Balanced,2019-07-01 14:00,2019-12-01 14:00,1030,9167,202,1861,Scouts
+445,0309,0317,Dazai Osamu,SR,Crimson,Male,Armed Detective Agency,Defensive,2019-06-27 17:00,2019-11-28 14:00,717,5378,130,779,Events
+446,0308,0315,Nakahara Chuuya,SSR,Dark,Male,Port Mafia,Balanced,2019-06-27 17:00,2019-11-28 14:00,945,8450,185,1686,Scouts
+447,0307,0316,Mori Ougai,SSR,Emerald,Male,Port Mafia,Support,2019-06-27 17:00,2019-11-28 14:00,902,7696,194,1932,Scouts
+448,0306,0280,Fukuzawa Yukichi,UR,Crimson,Male,Armed Detective Agency,Balanced,2019-06-21 17:00,2019-09-12 17:00,990,10791,202,2281,Event Bonuses
+449,0305,0236,Akutagawa Ryuunosuke,SSR,Crimson,Male,Port Mafia,Offensive,2019-06-21 17:00,?,969,7921,215,2269,Scouts
+450,0304,0293,Sakaguchi Ango,SR,Emerald,Male,Supernatural Ability Special Investigation Division,Support,2019-06-14 13:00,?,656,4373,142,1086,Events
+451,0303,0292,Tanizaki Junichirou,SR,Crimson,Male,Armed Detective Agency,Defensive,2019-06-14 13:00,?,727,5447,128,777,Events
+452,0302,0291,Tsujimura Mizuki,SSR,Azure,Female,Supernatural Ability Special Investigation Division,Balanced,2019-06-14 13:00,?,935,8361,187,1688,Scouts
+453,0301,0290,Ayatsuji Yukito,SSR,Dark,Male,Independent,Special,2019-06-14 13:00,?,949,8849,185,1528,Scouts
+454,0300,0210,Dazai Osamu,SSR,Light,Male,Armed Detective Agency,Offensive,2019-05-24 17:00,?,959,7832,217,2350,Scouts
+455,0299,0208,Ozaki Kouyou,SR,Light,Female,Port Mafia,Support,2019-05-17 17:00,?,666,4442,140,1084,Events
+456,0298,0207,Kajii Motojirou,SR,Azure,Male,Port Mafia,Special,2019-05-17 17:00,?,710,5135,132,840,Scouts
+457,0297,0206,Higuchi Ichiyou,SR,Dark,Female,Port Mafia,Offensive,2019-05-17 17:00,?,639,4061,146,1208,Scouts
+458,0296,0205,Nakahara Chuuya,SSR,Crimson,Male,Port Mafia,Defensive,2019-05-17 17:00,?,982,9593,178,1363,Scouts
+459,0295,0204,Akutagawa Ryuunosuke,SSR,Emerald,Male,Port Mafia,Support,2019-05-17 17:00,?,902,7696,194,1932,Scouts
+460,0294,0279,Nathaniel H.,SR,Dark,Male,Guild,Support,2019-05-17 17:00,?,666,4442,140,1084,Events
+461,0293,0297,Gin,SSR,Light,Female,Port Mafia,Special,2019-05-11 14:00,?,959,8938,183,1526,Scouts
+462,0292,0296,Tachihara Michizou,SSR,Emerald,Male,Port Mafia,Offensive,2019-05-11 14:00,?,889,7288,197,2093,Scouts
+463,0291,0289,Oda Sakunosuke,SSR,Light,Male,Port Mafia,Offensive,?,?,969,7921,215,2269,Scouts
+464,0290,0267,Margaret M.,R,Crimson,Female,Guild,Special,?,?,549,2811,101,491,Scouts
+465,0289,0266,Nathaniel H.,R,Emerald,Male,Guild,Offensive,?,?,509,2303,109,655,Scouts
+466,0288,0265,Lovecraft,R,Dark,Male,Guild,Special,?,?,539,2762,103,493,Scouts
+467,0287,0264,John S.,R,Azure,Male,Guild,Defensive,?,?,552,2931,100,412,Scouts
+468,0286,0263,Nathaniel H.,SR,Azure,Male,Guild,Balanced,?,?,693,4823,135,961,Scouts
+469,0285,0262,John S.,SR,Dark,Male,Guild,Defensive,?,?,727,5447,128,777,Scouts
+470,0284,0261,Nathaniel H.,SSR,Crimson,Male,Guild,Support,?,?,871,7428,183,1842,Scouts
+471,0283,0260,Lovecraft,SSR,Emerald,Male,Guild,Special,?,?,905,8489,177,1441,Scouts
+472,0282,0259,John S.,SSR,Light,Male,Guild,Offensive,?,?,848,6931,188,2005,Scouts
+473,0281,0243,Kunikida Doppo,SR,Emerald,Male,Armed Detective Agency,Balanced,?,?,673,4685,139,965,Events
+474,0280,0242,Kajii Motojirou,SR,Dark,Male,Port Mafia,Defensive,?,?,727,5447,128,777,Scouts
+475,0279,0241,Tanizaki Junichirou,SR,Light,Male,Armed Detective Agency,Special,?,?,690,4997,136,903,Scouts
+476,0278,0240,Akutagawa Ryuunosuke,SSR,Crimson,Male,Port Mafia,Balanced,?,?,945,8450,185,1686,Scouts
+477,0277,0239,Nakajima Atsushi,SSR,Azure,Male,Armed Detective Agency,Offensive,?,?,899,7298,195,2091,Scouts
+478,0276,0340,Sasaki Nobuko,R,Azure,Female,Independent,Special,?,2020-01-09 08:00,539,2762,103,493,Not Avaliable
+479,0275,0339,Officer Sugimoto,R,Emerald,Male,Independent,Defensive,?,2020-01-09 08:00,542,2882,102,453,Not Avaliable
+480,0274,0648,Nakajima Atsushi,SR,Emerald,Male,Armed Detective Agency,Defensive,?,2021-12-18 05:00,707,5309,132,781,Events
+481,0273,0338,Mori Ougai,SSR,Crimson,Male,Port Mafia,Support,?,2020-01-09 08:00,871,7428,183,1842,Scouts
+482,0272,0203,Lucy M.,SSR,Light,Female,Guild,Special,?,?,969,9027,181,1524,Scouts
+483,0271,0202,Francis F.,SSR,Emerald,Male,Guild,Offensive,?,?,879,7199,199,2095,Scouts
+484,0270,0278,Sakaguchi Ango,SSR,Crimson,Male,Supernatural Ability Special Investigation Division,Balanced,?,?,925,8272,189,1690,Scouts
+485,0269,0254,Izumi Kyouka,UR,Emerald,Female,Port Mafia,Defensive,?,?,1060,12643,188,1772,Awakening
+486,0268,0373,Nakajima Atsushi,SR,Crimson,Male,Armed Detective Agency,Special,?,2020-04-01 00:00,710,5135,132,840,Events
+487,0267,0237,Yosano Akiko,SSR,Dark,Female,Armed Detective Agency,Offensive,?,?,969,7921,215,2269,Scouts
+488,0266,0193,Lucy M.,SR,Light,Female,Guild,Special,?,?,700,5066,134,901,Scouts
+489,0265,0192,Higuchi Ichiyou,SSR,Dark,Female,Port Mafia,Defensive,?,?,982,9593,178,1363,Scouts
+490,0264,0191,Gin,SR,Azure,Female,Port Mafia,Balanced,?,?,683,4754,137,963,Events
+491,0263,0190,Yosano Akiko,SR,Emerald,Female,Armed Detective Agency,Special,?,?,690,4997,136,903,Events
+492,0262,0189,Ozaki Kouyou,SR,Crimson,Female,Port Mafia,Balanced,?,?,673,4685,139,965,Scouts
+493,0261,0188,Izumi Kyouka,SSR,Light,Female,Armed Detective Agency,Support,?,?,912,7785,192,1930,Scouts
+494,0260,0362,Francis F.,SR,Azure,Male,Guild,Balanced,?,2020-03-06 08:00,693,4823,135,961,Events
+495,0259,0350,Nakahara Chuuya,SSR,Crimson,Male,Port Mafia,Offensive,?,2020-02-06 08:00,889,7288,197,2093,Scouts
+496,0258,0349,Akutagawa Ryuunosuke,SSR,Emerald,Male,Port Mafia,Special,?,2020-02-06 08:00,969,9027,181,1524,Scouts
+497,0257,0187,Fukuzawa Yukichi,SR,Azure,Male,Armed Detective Agency,Balanced,?,?,683,4754,137,963,Scouts
+498,0256,0186,Edogawa Rampo,SR,Emerald,Male,Armed Detective Agency,Support,?,?,656,4373,142,1086,Scouts
+499,0255,0185,Miyazawa Kenji,SSR,Crimson,Male,Armed Detective Agency,Balanced,?,?,925,8272,189,1690,Scouts
+500,0254,0184,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Special,?,?,949,8849,185,1528,Scouts
+501,0253,0238,Nakahara Chuuya,UR,Dark,Male,Port Mafia,Offensive,?,?,960,9573,208,2683,Not Avaliable
+502,0252,0277,Lucy M.,SSR,Crimson,Female,Guild,Defensive,?,2019-09-01 14:00,1061,10304,196,1460,Scouts
+503,0251,0295,Higuchi Ichiyou,SR,Dark,Female,Port Mafia,Special,?,?,710,5135,132,840,Scouts
+504,0250,0294,Ozaki Kouyou,SSR,Emerald,Female,Port Mafia,Support,?,?,922,7874,190,1849,Scouts
+505,0249,0172,Nakajima Atsushi,R,Light,Male,Armed Detective Agency,Support,?,?,454,2170,100,529,Events
+506,0248,0171,Nakajima Atsushi,SR,Light,Male,Armed Detective Agency,Support,?,?,593,3956,129,1014,Awakening
+507,0247,0170,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Support,?,?,778,6624,168,1669,Awakening
+508,0246,0169,Miyazawa Kenji,SR,Dark,Male,Armed Detective Agency,Special,?,?,710,5135,132,840,Scouts
+509,0245,0168,Tanizaki Junichirou,SR,Emerald,Male,Armed Detective Agency,Offensive,?,?,659,4199,142,1204,Scouts
+510,0244,0167,Edogawa Rampo,SSR,Crimson,Male,Armed Detective Agency,Defensive,?,?,992,9682,176,1361,Scouts
+511,0243,0166,Kunikida Doppo,SSR,Azure,Male,Armed Detective Agency,Balanced,?,?,935,8361,187,1688,Scouts
+512,0242,0213,Ozaki Kouyou,R,Light,Female,Port Mafia,Balanced,?,?,515,2543,107,536,Scouts
+513,0241,0212,Izumi Kyouka,SR,Emerald,Female,Armed Detective Agency,Offensive,?,?,639,4061,146,1208,Scouts
+514,0240,0211,Ozaki Kouyou,SSR,Dark,Female,Port Mafia,Special,?,?,915,8578,175,1439,Scouts
+515,0239,0354,Lucy M.,SR,Emerald,Female,Guild,Balanced,?,2020-02-13 08:00,683,4754,137,963,Events
+516,0238,0217,Akutagawa Ryuunosuke,UR,Dark,Male,Port Mafia,Offensive,?,?,940,9355,212,2786,Awakening
+517,0237,0155,Akutagawa Ryuunosuke,SR,Light,Male,Port Mafia,Offensive,?,?,659,4199,142,1204,Events
+518,0236,0195,Oda Sakunosuke,SSR,Dark,Male,Port Mafia,Balanced,2019-02-05 16:00,?,925,8272,189,1690,Scouts
+519,0235,0194,Dazai Osamu,SSR,Light,Male,Port Mafia,Support,2019-02-05 16:00,?,912,7785,192,1930,Scouts
+520,0234,0251,Francis F.,SSR,Azure,Male,Guild,Support,2019-02-01,2019-08-01 14:00,1005,8589,208,2025,Scouts
+521,0233,0216,Tanizaki Junichirou,UR,Dark,Male,Armed Detective Agency,Balanced,?,?,1010,11009,198,2178,Event Bonuses
+522,0232,0199,Edogawa Rampo,SR,Azure,Male,Armed Detective Agency,Support,?,?,676,4511,138,1082,Events
+523,0231,0176,Sakaguchi Ango,SSR,Dark,Male,Port Mafia,Defensive,?,?,992,9682,176,1361,Scouts
+524,0230,0175,Oda Sakunosuke,SSR,Light,Male,Port Mafia,Support,?,?,902,7696,194,1932,Scouts
+525,0229,0174,Nakahara Chuuya,SSR,Emerald,Male,Port Mafia,Balanced,?,?,925,8272,189,1690,Scouts
+526,0228,0173,Dazai Osamu,SSR,Crimson,Male,Armed Detective Agency,Offensive,?,?,899,7298,195,2091,Scouts
+527,0227,0177,Nakajima Atsushi,SSR,Azure,Male,Armed Detective Agency,Special,?,?,828,7701,158,1343,Miscellaneous
+528,0226,0224,Izumi Kyouka,SR,Crimson,Female,Armed Detective Agency,Special,?,?,700,5066,134,901,Events
+529,0225,0223,Nakajima Atsushi,SR,Azure,Male,Armed Detective Agency,Offensive,?,?,639,4061,146,1208,Events
+530,0224,0222,Shibusawa Tatsuhiko,SSR,Azure,Male,Independent,Offensive,?,?,899,7298,195,2091,Scouts
+531,0223,0221,Fyodor D.,SSR,Emerald,Male,Rats in the House of the Dead,Support,?,?,902,7696,194,1932,Scouts
+532,0222,0220,Oda Sakunosuke,SSR,Crimson,Male,Port Mafia,Special,?,?,959,8938,183,1526,Scouts
+533,0221,0219,Nakahara Chuuya,SSR,Dark,Male,Port Mafia,Balanced,?,?,925,8272,189,1690,Scouts
+534,0220,0218,Dazai Osamu,SSR,Light,Male,Port Mafia,Defensive,?,?,982,9593,178,1363,Scouts
+535,0219,0270,Tsujimura Mizuki,SR,Dark,Female,Supernatural Ability Special Investigation Division,Offensive,?,?,639,4061,146,1208,Events
+536,0218,0269,Nakahara Chuuya,SSR,Azure,Male,Port Mafia,Special,?,2019-08-16 17:00,949,8849,185,1528,Scouts
+537,0217,0256,Akutagawa Ryuunosuke,SSR,Light,Male,Port Mafia,Balanced,?,?,935,8361,187,1688,Scouts
+538,0216,0257,Izumi Kyouka,SSR,Dark,Female,Armed Detective Agency,Offensive,?,?,889,7288,197,2093,Scouts
+539,0215,0255,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Support,?,?,922,7874,190,1849,Scouts
+540,0214,0258,Shibusawa Tatsuhiko,UR,Dark,Male,Independent,Balanced,?,?,940,10246,192,2172,Awakening
+541,0213,0201,Miyazawa Kenji,UR,Azure,Male,Armed Detective Agency,Defensive,?,?,1040,12425,192,1776,Awakening
+542,0212,0200,Edogawa Rampo,UR,Emerald,Male,Armed Detective Agency,Support,?,?,985,10291,203,2480,Event Bonuses
+543,0211,0182,Kunikida Doppo,UR,Azure,Male,Armed Detective Agency,Special,?,?,1025,11717,195,1977,Awakening
+544,0210,0328,Mori Ougai,SR,Azure,Male,Port Mafia,Support,?,2019-12-09 14:00,676,4511,138,1082,Events
+545,0209,0327,Nakahara Chuuya,SR,Emerald,Male,Port Mafia,Balanced,?,2019-12-09 14:00,673,4685,139,965,Events
+546,0208,0326,Higuchi Ichiyou,SR,Light,Female,Port Mafia,Offensive,?,2019-12-09 14:00,659,4199,142,1204,Scouts
+547,0207,0325,Miyazawa Kenji,SR,Crimson,Male,Armed Detective Agency,Balanced,?,2019-12-09 14:00,683,4754,137,963,Scouts
+548,0206,0324,Akutagawa Ryuunosuke,SSR,Emerald,Male,Port Mafia,Defensive,?,2019-12-09 14:00,972,9425,180,1365,Scouts
+549,0205,0323,Dazai Osamu,SSR,Dark,Male,Armed Detective Agency,Special,?,2019-12-09 14:00,949,8849,185,1528,Scouts
+550,0204,0196,Francis F.,SR,Emerald,Male,Guild,Special,?,?,690,4997,136,903,Events
+551,0203,0145,Hirotsu Ryuurou,SR,Light,Male,Port Mafia,Support,?,?,656,4373,142,1086,Scouts
+552,0202,0144,Nakahara Chuuya,SSR,Crimson,Male,Port Mafia,Balanced,?,?,945,8450,185,1686,Scouts
+553,0201,0197,Gide,SSR,Emerald,Male,Mimic,Offensive,?,?,959,7832,217,2350,Scouts
+554,0200,0198,Gide,R,Azure,Male,Mimic,Special,?,?,529,2713,105,495,Scouts
+555,0199,0619,Akutagawa Ryuunosuke,SR,Crimson,Male,Port Mafia,Special,?,2021-10-07 08:00,710,5135,132,840,Events
+556,0198,0164,Fukuzawa Yukichi,SSR,Emerald,Male,Armed Detective Agency,Offensive,?,?,879,7199,199,2095,Scouts
+557,0197,0163,Edogawa Rampo,SSR,Dark,Male,Armed Detective Agency,Support,?,?,902,7696,194,1932,Scouts
+558,0196,0161,Izumi Kyouka,SR,Dark,Female,Armed Detective Agency,Support,?,?,666,4442,140,1084,Scouts
+559,0195,0160,Yosano Akiko,SR,Crimson,Female,Armed Detective Agency,Defensive,?,?,727,5447,128,777,Scouts
+560,0194,0159,Izumi Kyouka,SSR,Light,Female,Armed Detective Agency,Special,?,?,905,8489,177,1441,Scouts
+561,0193,0158,Yosano Akiko,SSR,Azure,Female,Armed Detective Agency,Offensive,?,?,838,6842,190,2007,Scouts
+562,0192,0235,Higuchi Ichiyou,SR,Crimson,Female,Port Mafia,Balanced,?,?,673,4685,139,965,Events
+563,0191,0234,Miyazawa Kenji,SR,Light,Male,Armed Detective Agency,Defensive,?,?,707,5309,132,781,Events
+564,0190,0233,Gin,SR,Emerald,Female,Port Mafia,Special,?,?,700,5066,134,901,Scouts
+565,0189,0232,Tachihara Michizou,SR,Dark,Male,Port Mafia,Defensive,?,?,727,5447,128,777,Scouts
+566,0188,0231,Izumi Kyouka,SR,Azure,Female,Armed Detective Agency,Balanced,?,?,683,4754,137,963,Scouts
+567,0187,0230,Tanizaki Junichirou,SR,Dark,Male,Armed Detective Agency,Offensive,?,?,649,4130,144,1206,Scouts
+568,0186,0229,Nakahara Chuuya,SSR,Light,Male,Port Mafia,Offensive,?,?,889,7288,197,2093,Scouts
+569,0185,0228,Akutagawa Ryuunosuke,SSR,Crimson,Male,Port Mafia,Support,?,?,912,7785,192,1930,Scouts
+570,0184,0227,Dazai Osamu,SSR,Azure,Male,Armed Detective Agency,Special,?,?,959,8938,183,1526,Scouts
+571,0183,0226,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Balanced,?,?,935,8361,187,1688,Scouts
+572,0182,0352,Dazai Osamu,SSR,Crimson,Male,Armed Detective Agency,Balanced,?,2020-02-13 08:00,935,8361,187,1688,Scouts
+573,0181,0215,Tanizaki Junichirou,SSR,Crimson,Male,Armed Detective Agency,Offensive,?,?,979,8010,213,2267,Scouts
+574,0180,0353,Kunikida Doppo,SR,Light,Male,Armed Detective Agency,Special,?,2020-02-13 08:00,690,4997,136,903,Events
+575,0179,0209,Nakajima Atsushi,SSR,Azure,Male,Armed Detective Agency,Balanced,?,?,1020,9078,204,1863,Scouts
+576,0178,0121,Tanizaki Junichirou,SR,Azure,Male,Armed Detective Agency,Balanced,?,?,673,4685,139,965,Events
+577,0177,0120,Nakajima Atsushi,SR,Dark,Male,Armed Detective Agency,Support,?,?,676,4511,138,1082,Events
+578,0176,0119,Nakahara Chuuya,SR,Light,Male,Port Mafia,Balanced,?,?,673,4685,139,965,Scouts
+579,0175,0118,Izumi Kyouka,SR,Emerald,Female,Armed Detective Agency,Offensive,?,?,649,4130,144,1206,Scouts
+580,0174,0117,Yosano Akiko,SSR,Crimson,Female,Armed Detective Agency,Support,?,?,902,7696,194,1932,Scouts
+581,0173,0116,Akutagawa Ryuunosuke,SSR,Azure,Male,Port Mafia,Offensive,?,?,889,7288,197,2093,Scouts
+582,0172,0146,Higuchi Ichiyou,SR,Light,Female,Port Mafia,Defensive,?,?,707,5309,132,781,Events
+583,0171,0183,Kajii Motojirou,UR,Crimson,Male,Port Mafia,Offensive,?,?,940,9355,212,2786,Awakening
+584,0170,0156,Nakahara Chuuya,SSR,Dark,Male,Port Mafia,Special,?,?,1046,9736,199,1621,Scouts
+585,0169,0250,Edogawa Rampo,SR,Light,Male,Armed Detective Agency,Special,?,?,690,4997,136,903,Events
+586,0168,0249,Nakajima Atsushi,SR,Emerald,Male,Armed Detective Agency,Offensive,?,?,659,4199,142,1204,Events
+587,0167,0253,Higuchi Ichiyou,SR,Azure,Female,Port Mafia,Balanced,?,2019-08-02 14:00,683,4754,137,963,Scouts
+588,0166,0252,Nakahara Chuuya,SSR,Emerald,Male,Port Mafia,Support,?,2019-08-02 14:00,902,7696,194,1932,Scouts
+589,0165,0248,Fukuzawa Yukichi,SR,Crimson,Male,Armed Detective Agency,Special,?,?,700,5066,134,901,Scouts
+590,0164,0247,Kunikida Doppo,SSR,Dark,Male,Armed Detective Agency,Support,?,?,922,7874,190,1849,Scouts
+591,0163,0268,Lucy M.,SR,Dark,Female,Guild,Offensive,?,?,639,4061,146,1208,Events
+592,0162,0141,Hirotsu Ryuurou,SR,Emerald,Male,Port Mafia,Special,?,?,690,4997,136,903,Scouts
+593,0161,0140,Dazai Osamu,SR,Azure,Male,Port Mafia,Support,?,?,676,4511,138,1082,Scouts
+594,0160,0139,Sakaguchi Ango,SSR,Crimson,Male,Port Mafia,Special,?,?,925,8667,173,1437,Scouts
+595,0159,0181,Dazai Osamu,UR,Light,Male,Armed Detective Agency,Defensive,?,?,1060,12643,188,1772,Awakening
+596,0158,0179,Mori Ougai,SSR,Light,Male,Port Mafia,Balanced,?,?,1020,9078,204,1863,Scouts
+597,0157,0178,Fukuzawa Yukichi,SSR,Azure,Male,Armed Detective Agency,Offensive,?,?,979,8010,213,2267,Scouts
+598,0156,0143,Kajii Motojirou,SR,Azure,Male,Port Mafia,Support,?,?,656,4373,142,1086,Events
+599,0155,0124,Akutagawa Ryuunosuke,SR,Light,Male,Port Mafia,Special,?,?,710,5135,132,840,Scouts
+600,0154,0123,Oda Sakunosuke,SSR,Emerald,Male,Port Mafia,Support,?,?,861,7339,185,1844,Scouts
+601,0153,0600,Akutagawa Ryuunosuke,SR,Dark,Male,Port Mafia,Defensive,?,2021-08-16 05:00,707,5309,132,781,Scouts
+602,0152,0599,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Special,?,2021-08-16 05:00,969,9027,181,1524,Scouts
+603,0151,0422,Nakahara Chuuya,SR,Crimson,Male,Port Mafia,Special,?,2020-07-03 08:00,700,5066,134,901,Events
+604,0150,0421,Dazai Osamu,SR,Azure,Male,Armed Detective Agency,Defensive,?,2020-07-03 08:00,727,5447,128,777,Events
+605,0149,0420,Akutagawa Ryuunosuke,SR,Emerald,Male,Port Mafia,Support,?,2020-07-03 08:00,656,4373,142,1086,Events
+606,0148,0419,Nakajima Atsushi,SR,Light,Male,Armed Detective Agency,Balanced,?,2020-07-03 08:00,683,4754,137,963,Event Bonuses
+607,0147,0602,Yosano Akiko,SR,Azure,Female,Armed Detective Agency,Offensive,?,2021-08-26 08:00,649,4130,144,1206,Scouts
+608,0146,0601,Izumi Kyouka,SSR,Emerald,Female,Armed Detective Agency,Support,?,2021-08-26 08:00,922,7874,190,1849,Scouts
+609,0145,0126,Yosano Akiko,UR,Light,Female,Armed Detective Agency,Special,?,?,1015,11608,197,1979,Event Bonuses
+610,0144,0214,Edogawa Rampo,SR,Crimson,Male,Armed Detective Agency,Balanced,?,?,650,4485,130,897,Events
+611,0143,0136,Dazai Osamu,SSR,Emerald,Male,Armed Detective Agency,Support,?,?,995,8500,210,2106,Scouts
+612,0142,0125,Oda Sakunosuke,SR,Light,Male,Port Mafia,Defensive,?,?,707,5309,132,781,Events
+613,0141,0152,Dazai Osamu,SR,Crimson,Male,Port Mafia,Special,?,?,710,5135,132,840,Scouts
+614,0140,0151,Nakahara Chuuya,SSR,Light,Male,Port Mafia,Balanced,?,?,935,8361,187,1688,Scouts
+615,0139,0153,Fyodor D.,SR,Crimson,Male,Rats in the House of the Dead,Support,?,?,656,4373,142,1086,Events
+616,0138,0150,Shibusawa Tatsuhiko,SR,Emerald,Male,Independent,Defensive,?,?,707,5309,132,781,Scouts
+617,0137,0148,Oda Sakunosuke,SSR,Azure,Male,Port Mafia,Offensive,?,?,899,7298,195,2091,Scouts
+618,0136,0149,Shibusawa Tatsuhiko,SSR,Dark,Male,Independent,Balanced,?,?,798,7118,164,1507,Events
+619,0135,0225,Dazai Osamu,SR,Dark,Male,Armed Detective Agency,Defensive,?,?,717,5378,130,779,Events
+620,0134,0091,Lucy M.,SSR,Azure,Female,Guild,Support,?,?,881,7517,181,1761,Scouts
+621,0133,0090,Lucy M.,SR,Crimson,Female,Guild,Defensive,?,?,727,5447,128,777,Scouts
+622,0132,0089,Lucy M.,R,Dark,Female,Guild,Balanced,?,?,535,2641,103,532,Scouts
+623,0131,0147,Izumi Kyouka,SSR,Crimson,Female,Armed Detective Agency,Balanced,?,?,1010,8989,206,1865,Scouts
+624,0130,0108,Mori Ougai,SSR,Dark,Male,Port Mafia,Special,?,?,925,8667,173,1437,Scouts
+625,0129,0083,Izumi Kyouka,SR,Azure,Female,Armed Detective Agency,Defensive,?,?,707,5309,132,781,Events
+626,0128,0082,Edogawa Rampo,SR,Emerald,Male,Armed Detective Agency,Offensive,?,?,649,4130,144,1206,Events
+627,0127,0081,Yosano Akiko,SR,Light,Female,Armed Detective Agency,Support,?,?,676,4511,138,1082,Scouts
+628,0126,0080,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Support,?,?,902,7696,194,1932,Scouts
+629,0125,0162,Fukuzawa Yukichi,SR,Emerald,Male,Armed Detective Agency,Defensive,?,?,727,5447,128,777,Events
+630,0124,0101,Nakajima Atsushi,SR,Dark,Male,Armed Detective Agency,Balanced,?,?,683,4754,137,963,Scouts
+631,0123,0100,Miyazawa Kenji,SSR,Emerald,Male,Armed Detective Agency,Offensive,?,?,858,7020,186,2003,Scouts
+632,0122,0157,Akutagawa Ryuunosuke,SR,Dark,Male,Port Mafia,Special,?,?,677,4925,125,833,Events
+633,0121,0122,Edogawa Rampo,SSR,Azure,Male,Armed Detective Agency,Balanced,?,?,1020,9078,204,1863,Scouts
+634,0120,0115,Nakajima Atsushi,UR,Crimson,Male,Armed Detective Agency,Offensive,?,?,950,9464,210,2784,Awakening
+635,0119,0129,Fyodor D.,SSR,Azure,Male,Rats in the House of the Dead,Offensive,?,?,959,7832,217,2350,Scouts
+636,0118,0128,Shibusawa Tatsuhiko,SSR,Crimson,Male,Independent,Support,?,?,1005,8589,208,2025,Scouts
+637,0117,0127,Dazai Osamu,SSR,Dark,Male,Armed Detective Agency,Special,?,?,1046,9736,199,1621,Scouts
+638,0116,0109,Yosano Akiko,SR,Crimson,Female,Armed Detective Agency,Balanced,?,?,683,4754,137,963,Events
+639,0115,0096,Dazai Osamu,SSR,Light,Male,Armed Detective Agency,Balanced,?,?,945,8450,185,1686,Scouts
+640,0114,0095,Nakajima Atsushi,SSR,Emerald,Male,Armed Detective Agency,Defensive,?,?,972,9425,180,1365,Scouts
+641,0113,0098,Gin,SR,Dark,Female,Port Mafia,Offensive,?,?,659,4199,142,1204,Events
+642,0112,0097,Tachihara Michizou,SR,Crimson,Male,Port Mafia,Balanced,?,?,683,4754,137,963,Events
+643,0111,0088,Francis F.,SSR,Light,Male,Guild,Offensive,?,?,838,6842,190,2007,Scouts
+644,0110,0087,Francis F.,SR,Dark,Male,Guild,Defensive,?,?,707,5309,132,781,Scouts
+645,0109,0086,Francis F.,R,Emerald,Male,Guild,Balanced,?,?,515,2543,107,536,Scouts
+646,0108,0180,Nakajima Atsushi,SR,Light,Male,Armed Detective Agency,Special,?,?,700,5066,134,901,Events
+647,0107,0094,Kunikida Doppo,SSR,Emerald,Male,Armed Detective Agency,Defensive,?,?,1061,10304,196,1460,Scouts
+648,0106,0112,Sakaguchi Ango,SR,Azure,Male,Port Mafia,Defensive,?,?,727,5447,128,777,Scouts
+649,0105,0114,Sakaguchi Ango,R,Emerald,Male,Port Mafia,Support,?,?,522,2472,106,574,Scouts
+650,0104,0111,Oda Sakunosuke,SR,Crimson,Male,Port Mafia,Special,?,?,700,5066,134,901,Scouts
+651,0103,0113,Oda Sakunosuke,R,Dark,Male,Port Mafia,Balanced,?,?,525,2592,105,534,Scouts
+652,0102,0110,Dazai Osamu,SSR,Azure,Male,Port Mafia,Offensive,?,?,979,8010,213,2267,Scouts
+653,0101,0065,Miyazawa Kenji,SR,Emerald,Male,Armed Detective Agency,Support,?,?,676,4511,138,1082,Events
+654,0100,0142,Dazai Osamu,SR,Light,Male,Armed Detective Agency,Offensive,?,?,608,3853,139,1142,Events
+655,0099,0072,Akutagawa Ryuunosuke,SR,Dark,Male,Port Mafia,Support,?,?,666,4442,140,1084,Scouts
+656,0098,0071,Dazai Osamu,SSR,Emerald,Male,Armed Detective Agency,Special,?,?,949,8849,185,1528,Scouts
+657,0097,0070,Kunikida Doppo,SR,Light,Male,Armed Detective Agency,Balanced,?,?,693,4823,135,961,Events
+658,0096,0069,Nakajima Atsushi,SR,Azure,Male,Armed Detective Agency,Special,?,?,700,5066,134,901,Events
+659,0095,0068,Edogawa Rampo,SR,Crimson,Male,Armed Detective Agency,Defensive,?,?,707,5309,132,781,Scouts
+660,0094,0067,Nakahara Chuuya,SSR,Azure,Male,Port Mafia,Support,?,?,922,7874,190,1849,Scouts
+661,0093,0165,Nakajima Atsushi,SR,Crimson,Male,Armed Detective Agency,Balanced,?,?,673,4685,139,965,Events
+662,0092,0092,Mori Ougai,SR,Azure,Male,Port Mafia,Defensive,?,?,707,5309,132,781,Events
+663,0091,0079,Akutagawa Ryuunosuke,SSR,Dark,Male,Port Mafia,Special,?,?,1046,9736,199,1621,Scouts
+664,0090,0099,Nakajima Atsushi,SR,Emerald,Male,Armed Detective Agency,Special,?,?,677,4925,125,833,Events
+665,0089,0093,Nakahara Chuuya,SSR,Crimson,Male,Port Mafia,Support,?,?,985,8411,212,2108,Scouts
+666,0088,0078,Nakahara Chuuya,SR,Azure,Male,Port Mafia,Special,?,?,700,5066,134,901,Scouts
+667,0087,0077,Dazai Osamu,SSR,Emerald,Male,Armed Detective Agency,Offensive,?,?,848,6931,188,2005,Scouts
+668,0086,0154,Izumi Kyouka,SR,Light,Female,Armed Detective Agency,Balanced,?,?,693,4823,135,961,Events
+669,0085,0062,Nakajima Atsushi,SR,Azure,Male,Armed Detective Agency,Support,?,?,656,4373,142,1086,Events
+670,0084,0085,Miyazawa Kenji,SSR,Dark,Male,Armed Detective Agency,Special,?,?,949,8849,185,1528,Scouts
+671,0083,0084,Tanizaki Junichirou,SSR,Azure,Male,Armed Detective Agency,Defensive,?,?,982,9593,178,1363,Scouts
+672,0082,0076,Dazai Osamu,SR,Crimson,Male,Armed Detective Agency,Balanced,?,?,693,4823,135,961,Events
+673,0081,0066,Nakajima Atsushi,SSR,Light,Male,Armed Detective Agency,Offensive,?,?,979,8010,213,2267,Scouts
+674,0080,0075,Edogawa Rampo,SR,Dark,Male,Armed Detective Agency,Balanced,?,?,640,4416,132,958,Scouts
+675,0079,0074,Kunikida Doppo,SR,Emerald,Male,Armed Detective Agency,Defensive,?,?,693,5236,122,712,Scouts
+676,0078,0073,Fukuzawa Yukichi,SSR,Crimson,Male,Armed Detective Agency,Balanced,?,?,840,7476,172,1594,Scouts
+677,0077,0064,Hirotsu Ryuurou,SSR,Azure,Male,Port Mafia,Defensive,?,?,903,8803,160,1187,Scouts
+678,0076,0063,Higuchi Ichiyou,SSR,Emerald,Female,Port Mafia,Support,?,?,829,7070,175,1755,Scouts
+679,0075,0057,Tanizaki Junichirou,SR,Crimson,Male,Armed Detective Agency,Support,?,?,676,4511,138,1082,Events
+680,0074,0138,Mori Ougai,SR,Dark,Male,Port Mafia,Special,?,?,710,5135,132,840,Events
+681,0073,0137,Fukuzawa Yukichi,SR,Azure,Male,Armed Detective Agency,Offensive,?,?,639,4061,146,1208,Events
+682,0072,0061,Nakahara Chuuya,SSR,Emerald,Male,Port Mafia,Defensive,?,?,992,9682,176,1361,Scouts
+683,0071,0060,Akutagawa Ryuunosuke,SSR,Light,Male,Port Mafia,Balanced,?,?,925,8272,189,1690,Scouts
+684,0070,0059,Dazai Osamu,SSR,Crimson,Male,Armed Detective Agency,Support,?,?,922,7874,190,1849,Scouts
+685,0069,0058,Nakajima Atsushi,SSR,Azure,Male,Armed Detective Agency,Special,?,?,959,8938,183,1526,Scouts
+686,0068,0133,Kunikida Doppo,SR,Dark,Male,Armed Detective Agency,Support,?,?,666,4442,140,1084,Scouts
+687,0067,0130,Edogawa Rampo,SSR,Light,Male,Armed Detective Agency,Offensive,?,?,889,7288,197,2093,Scouts
+688,0066,0135,Yosano Akiko,SR,Dark,Female,Armed Detective Agency,Balanced,?,?,693,4823,135,961,Events
+689,0065,0134,Tanizaki Junichirou,SR,Emerald,Male,Armed Detective Agency,Special,?,?,690,4997,136,903,Events
+690,0064,0132,Nakajima Atsushi,SR,Crimson,Male,Armed Detective Agency,Defensive,?,?,727,5447,128,777,Scouts
+691,0063,0131,Izumi Kyouka,SSR,Azure,Female,Armed Detective Agency,Support,?,?,902,7696,194,1932,Scouts
+692,0062,0106,Kajii Motojirou,SR,Emerald,Male,Port Mafia,Balanced,?,?,683,4754,137,963,Events
+693,0061,0107,Nakahara Chuuya,SR,Light,Male,Port Mafia,Special,?,?,700,5066,134,901,Events
+694,0060,0105,Izumi Kyouka,SR,Light,Female,Armed Detective Agency,Special,?,?,690,4997,136,903,Scouts
+695,0059,0104,Dazai Osamu,SR,Azure,Male,Armed Detective Agency,Offensive,?,?,639,4061,146,1208,Scouts
+696,0058,0103,Kunikida Doppo,SSR,Crimson,Male,Armed Detective Agency,Offensive,?,?,879,7199,199,2095,Scouts
+697,0057,0102,Nakajima Atsushi,SSR,Dark,Male,Armed Detective Agency,Balanced,?,?,935,8361,187,1688,Scouts
+698,0056,0056,Gin,SR,Crimson,Female,Port Mafia,Special,?,?,657,4728,129,837,Scouts
+699,0055,0055,Gin,R,Crimson,Female,Port Mafia,Support,?,?,478,2272,105,573,Scouts
+700,0054,0054,Tachihara Michizou,SR,Emerald,Male,Port Mafia,Support,?,?,634,4233,134,1019,Scouts
+701,0053,0053,Tachihara Michizou,R,Emerald,Male,Port Mafia,Special,?,?,513,2619,98,449,Scouts
+702,0052,0052,Hirotsu Ryuurou,SR,Azure,Male,Port Mafia,Balanced,?,?,660,4554,128,895,Scouts
+703,0051,0051,Hirotsu Ryuurou,R,Azure,Male,Port Mafia,Balanced,?,?,510,2499,98,488,Scouts
+704,0050,0050,Nakahara Chuuya,SSR,Dark,Male,Port Mafia,Offensive,?,?,858,7020,186,2003,Scouts
+705,0049,0049,Nakahara Chuuya,SR,Emerald,Male,Port Mafia,Balanced,?,?,693,4823,135,961,Scouts
+706,0048,0048,Nakahara Chuuya,SR,Crimson,Male,Port Mafia,Offensive,?,?,659,4199,142,1204,Scouts
+707,0047,0047,Nakahara Chuuya,R,Dark,Male,Port Mafia,Offensive,?,?,509,2303,109,655,Scouts
+708,0046,0046,Kajii Motojirou,SSR,Crimson,Male,Port Mafia,Offensive,?,?,798,6486,181,1919,Scouts
+709,0045,0045,Kajii Motojirou,SR,Light,Male,Port Mafia,Offensive,?,?,608,3853,139,1142,Scouts
+710,0044,0044,Kajii Motojirou,R,Crimson,Male,Port Mafia,Offensive,?,?,465,2103,107,614,Scouts
+711,0043,0043,Izumi Kyouka,SSR,Emerald,Female,Port Mafia,Defensive,?,?,903,8803,160,1187,Scouts
+712,0042,0042,Izumi Kyouka,SR,Dark,Female,Port Mafia,Balanced,?,?,660,4554,128,895,Scouts
+713,0041,0041,Izumi Kyouka,SR,Crimson,Female,Port Mafia,Defensive,?,?,693,5236,122,712,Scouts
+714,0040,0040,Izumi Kyouka,R,Emerald,Female,Port Mafia,Defensive,?,?,535,2836,93,405,Scouts
+715,0039,0039,Higuchi Ichiyou,SR,Emerald,Female,Port Mafia,Support,?,?,634,4233,134,1019,Scouts
+716,0038,0038,Higuchi Ichiyou,R,Emerald,Female,Port Mafia,Support,?,?,488,2321,103,571,Scouts
+717,0037,0037,Akutagawa Ryuunosuke,SSR,Dark,Male,Port Mafia,Offensive,?,?,838,6842,190,2007,Scouts
+718,0036,0036,Akutagawa Ryuunosuke,SR,Azure,Male,Port Mafia,Defensive,?,?,717,5378,130,779,Miscellaneous
+719,0035,0035,Akutagawa Ryuunosuke,SR,Crimson,Male,Port Mafia,Balanced,?,?,673,4685,139,965,Scouts
+720,0034,0034,Akutagawa Ryuunosuke,SR,Light,Male,Port Mafia,Offensive,?,?,639,4061,146,1208,Scouts
+721,0033,0033,Akutagawa Ryuunosuke,R,Dark,Male,Port Mafia,Offensive,?,?,489,2244,113,659,Scouts
+722,0032,0032,Fukuzawa Yukichi,SR,Light,Male,Armed Detective Agency,Support,?,?,624,4164,136,1021,Scouts
+723,0031,0031,Fukuzawa Yukichi,R,Light,Male,Armed Detective Agency,Support,?,?,478,2272,105,573,Scouts
+724,0030,0030,Yosano Akiko,SSR,Light,Female,Armed Detective Agency,Special,?,?,862,8051,168,1432,Scouts
+725,0029,0029,Yosano Akiko,SR,Dark,Female,Armed Detective Agency,Offensive,?,?,608,3853,139,1142,Scouts
+726,0028,0028,Yosano Akiko,SR,Azure,Female,Armed Detective Agency,Special,?,?,657,4728,129,837,Scouts
+727,0027,0027,Yosano Akiko,R,Light,Female,Armed Detective Agency,Special,?,?,503,2570,100,451,Scouts
+728,0026,0026,Miyazawa Kenji,SSR,Azure,Male,Armed Detective Agency,Defensive,?,?,883,8625,164,1270,Scouts
+729,0025,0025,Miyazawa Kenji,SR,Emerald,Male,Armed Detective Agency,Offensive,?,?,608,3853,139,1142,Scouts
+730,0024,0024,Miyazawa Kenji,SR,Crimson,Male,Armed Detective Agency,Defensive,?,?,673,5098,126,775,Scouts
+731,0023,0023,Miyazawa Kenji,R,Azure,Male,Armed Detective Agency,Defensive,?,?,515,2738,97,409,Scouts
+732,0022,0022,Tanizaki Junichirou,SSR,Dark,Male,Armed Detective Agency,Balanced,?,?,860,7654,168,1511,Scouts
+733,0021,0021,Tanizaki Junichirou,SR,Light,Male,Armed Detective Agency,Defensive,?,?,693,5236,122,712,Scouts
+734,0020,0020,Tanizaki Junichirou,SR,Emerald,Male,Armed Detective Agency,Balanced,?,?,660,4554,128,895,Scouts
+735,0019,0019,Tanizaki Junichirou,R,Dark,Male,Armed Detective Agency,Balanced,?,?,510,2499,98,488,Scouts
+736,0018,0018,Edogawa Rampo,SSR,Emerald,Male,Armed Detective Agency,Support,?,?,839,7159,173,1753,Scouts
+737,0017,0017,Edogawa Rampo,SR,Azure,Male,Armed Detective Agency,Special,?,?,677,4925,125,833,Scouts
+738,0016,0016,Edogawa Rampo,SR,Light,Male,Armed Detective Agency,Support,?,?,644,4302,132,1017,Scouts
+739,0015,0015,Edogawa Rampo,R,Emerald,Male,Armed Detective Agency,Support,?,?,498,2370,101,569,Scouts
+740,0014,0014,Kunikida Doppo,SSR,Azure,Male,Armed Detective Agency,Special,?,?,872,8140,166,1351,Scouts
+741,0013,0013,Kunikida Doppo,SR,Light,Male,Armed Detective Agency,Offensive,?,?,618,3922,137,1140,Scouts
+742,0012,0012,Kunikida Doppo,SR,Crimson,Male,Armed Detective Agency,Special,?,?,667,4856,127,835,Scouts
+743,0011,0011,Kunikida Doppo,R,Azure,Male,Armed Detective Agency,Special,?,?,513,2619,98,449,Scouts
+744,0010,0010,Dazai Osamu,SSR,Light,Male,Armed Detective Agency,Defensive,?,?,948,9243,168,1274,Scouts
+745,0009,0009,Dazai Osamu,SR,Azure,Male,Armed Detective Agency,Support,?,?,676,4511,138,1082,Scouts
+746,0008,0008,Dazai Osamu,SR,Emerald,Male,Armed Detective Agency,Special,?,?,710,5135,132,840,Scouts
+747,0007,0007,Dazai Osamu,SR,Dark,Male,Armed Detective Agency,Defensive,?,?,727,5447,128,777,Scouts
+748,0006,0006,Dazai Osamu,R,Light,Male,Armed Detective Agency,Defensive,?,?,562,2980,98,410,Scouts
+749,0005,0005,Nakajima Atsushi,SSR,Crimson,Male,Armed Detective Agency,Offensive,?,?,848,6931,188,2005,Scouts
+750,0004,0004,Nakajima Atsushi,SR,Light,Male,Armed Detective Agency,Defensive,?,?,717,5378,130,779,Miscellaneous
+751,0003,0003,Nakajima Atsushi,SR,Azure,Male,Armed Detective Agency,Balanced,?,?,683,4754,137,963,Scouts
+752,0002,0002,Nakajima Atsushi,SR,Emerald,Male,Armed Detective Agency,Offensive,?,?,649,4130,144,1206,Scouts
+753,0001,0001,Nakajima Atsushi,R,Crimson,Male,Armed Detective Agency,Offensive,?,?,499,2254,111,657,Scouts
